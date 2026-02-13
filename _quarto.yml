@@ -33,3 +33,18 @@ format:
     title-block-style: default
     respect-user-color-scheme: true
     csl: assets/cell.csl
+    authors:
+      - name: Christon Hill
+        url: https://www.linkedin.com/in/christon-hill/
+        email: ch1447@georgetown.edu
+        roles:
+          - writing
+          - analysis
+      - name: Matthew Lyn
+        url: https://www.linkedin.com/in/matthew-lyn-6a4b8690/
+        email: matthew.lyn@alacrity-analytics.com
+        roles:
+          - software
+          - project administration
+          - editing
+    license: "CC BY"
