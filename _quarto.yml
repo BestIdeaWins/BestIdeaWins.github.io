@@ -8,6 +8,7 @@ project:
 
 website:
   title: "Best Idea Wins"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd

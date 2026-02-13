@@ -1,5 +1,6 @@
 ---
 title: Event Planning Is Not Innovation
+image: https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 authors:
   - name: Christon Hill
     url: https://www.linkedin.com/in/christon-hill/
@@ -22,6 +23,8 @@ bibliography: ../bibs/event_planning.bib
 license: "CC BY"
 ---
 
+![](https://media.gettyimages.com/id/159833612/photo/matthew-mcconaughey-and-jennifer-lopez-in-the-wedding-planner.jpg?s=1024x1024&w=gi&k=20&c=eFnx9Bta0Mp0Hxe05n-oCnj-NKN1RImWMBfmXJWbQrI=)
+
 # One Fine Day,
 
 In *The Wedding Planner*, Jennifer Lopez plays a woman who has built an entire career orchestrating other people’s weddings. Seating charts are flawless. Timelines are immaculate. The lighting hits just right for those pre-social media photos. She manages emotion, optics, and choreography with military precision. 
@@ -40,7 +43,9 @@ Beautiful ceremony. No marriage.
 
 This failure has almost nothing to do with talent or idea quality, and nearly everything to do with a system designed to generate motion without a reliable mechanism for carrying work from one decision point to another.
 
-Universities are extremely good at producing activity. Applications are counted. Mentors are logged. Cohorts are launched. Attendance stays up. Engagement stays high. The photos look great. (We are LinkedIn royalty!)
+Universities are extremely good at producing activity. Applications are counted. Mentors are logged. Cohorts are launched. Attendance stays up. Engagement stays high. The photos look great. 
+
+> We are LinkedIn royalty!
 
 But underneath that flurry of activity, the technologies sit in roughly the same place they were before — neither meaningfully advanced nor decisively stopped. They just are. They’re present. On the slide. In the portfolio. Stuck between gates.
 
@@ -85,6 +90,8 @@ There are commercialization/innovation systems that tilt toward decisions and ou
 
 For example, there are dedicated proof-of-concept funding models that lean on staged, evidence-based gates. Programs, such as the NIH Proof-of-Concept Centers[@bailey2025paths], require projects to tie funding to defined technical and commercial milestones — actual prototypes, feasibility data, and market engagement — before advancement is allowed. 
 
+![](https://images.unsplash.com/photo-1583912372325-0c5be28e3590?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 Support isn’t awarded because a workshop was full; it’s awarded because real evidence of commercial potential exists AND risk has been meaningfully reduced. This kind of gate-driven progression tends to produce more actual licensing outcomes, not just piles of post-event clickbait.  
 
 That’s what gating looks like. That’s decision infrastructure.
@@ -102,6 +109,8 @@ A 2024 study exploring the current state of technology transfer in the U.S.[@eid
 — tend to be more effective in bridging research and markets than those that don’t.  
 
 Some offices have even redesigned the licensing gate itself. A handful of TTOs, like the University of Cincinnati[@uc2023exploring] and the University of Missouri System[@umissouriexpress], have developed express licensing mechanisms — standardized, take-it-or-leave-it agreements with predefined terms — to cut out negotiation drag and get technologies into industry hands faster. These aren’t fancy events with cranberry baked brie bites — they’re structural interventions designed to force a decision about whether a technology will move forward or not, without weeks of back-and-forth over terms.  
+
+![University of Cincinnati](https://www.uc.edu/content/dam/refresh/marketing-communication/campaigns/fy24/economic-impact/uccampus.jpeg)
 
 The Association of University Technology Managers (AUTM) 2024 Licensing Activity Survey[@autm2024licensing] demonstrates real commercialization outcomes tell the most meaningful story. Research institutions continued to navigate funding shifts and strategic uncertainty while producing measurable market outcomes. 
 
@@ -124,7 +133,10 @@ When a TTO builds structured decision points — milestones that reduce technica
 
 If your commercialization system treats packed pitch rooms and demo nights as the success metric, you’ve lost the plot.
 
+![](https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 In many TTO/OTC-linked commercialization ecosystems, pitch competitions and showcase events become the de-facto milestones — the things you build calendars around, measure “engagement” on, and post about afterward. But if you treat that as progress, if you treat stage presence and applause as alignment, you’re optimizing for performance, not outcomes.
+
 
 An effective pitch shouldn’t be just a god performance. Pitching is supposed to come after the hard questions about what comes next and why have been answered:
 

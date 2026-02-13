@@ -1,5 +1,6 @@
 ---
-title: "The Best Idea Wins"
+title: ""
+title-block-banner: assets/bwi-logo/logo.png
 listing:
   contents: posts
   sort: "date desc"
@@ -7,4 +8,3 @@ listing:
   categories: true
   feed: true
 ---
-
