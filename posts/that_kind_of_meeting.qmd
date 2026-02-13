@@ -1,5 +1,6 @@
 ---
 title: It's Not That Kind of Meeting
+date: 2025-01-28
 categories:
   - Why You're Pitching Wrong
 ---

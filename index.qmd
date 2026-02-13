@@ -1,6 +1,7 @@
 ---
 title: ""
 title-block-banner: assets/bwi-logo/logo.png
+author: ""
 listing:
   contents: posts
   sort: "date desc"
