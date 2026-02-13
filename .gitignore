@@ -1,0 +1,7 @@
+.env
+.gemini
+docs/
+_site/
+/.quarto/
+**/*.quarto_ipynb
+_output

@@ -1,0 +1,205 @@
+---
+title: Event Planning Is Not Innovation
+authors:
+  - name: Christon Hill
+    url: https://www.linkedin.com/in/christon-hill/
+    email: ch1447@georgetown.edu
+    roles:
+      - writing
+      - analysis
+  - name: Matthew Lyn
+    url: https://www.linkedin.com/in/matthew-lyn-6a4b8690/
+    email: matthew.lyn@alacrity-analytics.com
+    roles:
+      - software
+      - project administration
+      - editing
+keywords:
+  - Startup Formation
+  - Technology Commercialization
+  - Capital Raising
+bibliography: ../bibs/event_planning.bib
+license: "CC BY"
+---
+
+# One Fine Day,
+
+In *The Wedding Planner*, Jennifer Lopez plays a woman who has built an entire career orchestrating other people’s weddings. Seating charts are flawless. Timelines are immaculate. The lighting hits just right for those pre-social media photos. She manages emotion, optics, and choreography with military precision. 
+
+For those who haven’t seen it: she plans everyone else’s big day because she quietly believes she’s not going to have one of her own, stating, “Those who can’t wed, plan.” So, she perfects the ceremony instead. And then, as was often the case in early 2000’s rom-coms, Matthew McConaughey shows up, complications ensue, and — all the while — the movie reminds us of something simple: planning a wedding is not the same thing as building a marriage.
+
+If you squint, a lot of university “innovation ecosystems” look eerily similar.
+
+You have mastered the ceremony. Pitch nights sell out. Demo days are standing room only. Calendars are packed. LinkedIn is thriving. The choreography is precise, the optics are polished, the programming tight. But months later, you look up and realize nothing meaningful has been committed — no capital, no customers, no real company.
+
+Beautiful ceremony. No marriage.
+
+“Those who can’t wed, plan.” In some corners of university commercialization, it feels more like those who can’t commercialize, program.
+ 
+# Busy Is Not Productive
+
+This failure has almost nothing to do with talent or idea quality, and nearly everything to do with a system designed to generate motion without a reliable mechanism for carrying work from one decision point to another.
+
+Universities are extremely good at producing activity. Applications are counted. Mentors are logged. Cohorts are launched. Attendance stays up. Engagement stays high. The photos look great. (We are LinkedIn royalty!)
+
+But underneath that flurry of activity, the technologies sit in roughly the same place they were before — neither meaningfully advanced nor decisively stopped. They just are. They’re present. On the slide. In the portfolio. Stuck between gates.
+
+This is like getting a flat tire and convening a panel of experts in rubber compounds, axle alignment, optimal PSI, and lug-nut metallurgy — listening to their insights on best practices for tire performance within the broader automotive ecosystem — instead of just changing the tire.
+ 
+## From Activity to Judgment
+
+Universities love pipelines because pipelines feel fair — and because they come with a comforting logic: put enough things in, keep them moving, and something good is bound to come out the other end. It sounds rational. It sounds efficient. It sounds like progress.
+
+It isn’t.
+
+Commercialization is not a conveyor belt. It’s not forward motion by default. It’s a series of uncomfortable, explicit decisions made under uncertainty. It requires someone — or some system — to look at the evidence and say: this moves forward. This doesn’t. This goes here. This stops.
+
+Commercialization is a set of gated decisions under uncertainty:
+
+- Is this worth advancing?
+- Which pathway makes sense right now — license, startup, strategic partnership, or stop?
+- What is the next value inflection point?
+- Who has to believe what, by when, for this to work?
+- And who, specifically, is going to pay for it?
+
+A serious commercialization system is designed to answer those questions repeatedly, quickly, and with evidence.
+
+And this is where some university innovation activity tends to miss the mark.
+
+It’s easier to schedule the next workshop than it is to force a meaningful decision. It’s safer to move a project into the next cohort than to decide whether it should exist at all. Activity feels productive, it generates updates, it fills dashboards, and it fools everyone into feeling engaged.
+
+When a university treats programming and activity as an outcomes, everything becomes a KPI. Everything counts as progress. The pitch night counts. The fireside chat counts. The networking cocktail hour counts. 
+
+And because all of these count, no one bothers to ask the harder questions: 
+
+- What risk was reduced? 
+- What belief was validated? 
+- What capital was committed?
+- What changed?
+
+If the answer is nothing changed except the calendar, then you’ve planned a wedding without vows — beautifully staged, masterfully orchestrated, and fundamentally empty.
+ 
+## Progress Over Production Value
+
+There are commercialization/innovation systems that tilt toward decisions and outcomes — rather than optics and attendance.
+
+For example, there are dedicated proof-of-concept funding models that lean on staged, evidence-based gates. Programs, such as the NIH Proof-of-Concept Centers[@bailey2025paths], require projects to tie funding to defined technical and commercial milestones — actual prototypes, feasibility data, and market engagement — before advancement is allowed. 
+
+Support isn’t awarded because a workshop was full; it’s awarded because real evidence of commercial potential exists AND risk has been meaningfully reduced. This kind of gate-driven progression tends to produce more actual licensing outcomes, not just piles of post-event clickbait.  
+
+That’s what gating looks like. That’s decision infrastructure.
+
+## Decisions, Decisions, Decisions,
+
+Technology Transfer, Technology Development, and Technology Commercialization Offices (TTOs/OTD/OTCs) inside universities are supposed to serve the same role — not as programming machines but as decision makers. 
+
+A 2024 study exploring the current state of technology transfer in the U.S.[@eidlisz2024exploring] finds that offices that emphasize structured engagement and market connection strategies like:
+
+- customized licensing agreements tailored to specific industry needs (used by about 35 % of offices), 
+- collaborative research ventures that align academic output with commercial partners (about 30 %), 
+- and industry-sponsored research programs that embed external incentives early (about 20 %),
+
+— tend to be more effective in bridging research and markets than those that don’t.  
+
+Some offices have even redesigned the licensing gate itself. A handful of TTOs, like the University of Cincinnati[@uc2023exploring] and the University of Missouri System[@umissouriexpress], have developed express licensing mechanisms — standardized, take-it-or-leave-it agreements with predefined terms — to cut out negotiation drag and get technologies into industry hands faster. These aren’t fancy events with cranberry baked brie bites — they’re structural interventions designed to force a decision about whether a technology will move forward or not, without weeks of back-and-forth over terms.  
+
+The Association of University Technology Managers (AUTM) 2024 Licensing Activity Survey[@autm2024licensing] demonstrates real commercialization outcomes tell the most meaningful story. Research institutions continued to navigate funding shifts and strategic uncertainty while producing measurable market outcomes. 
+
+U.S. research expenditures reached roughly $109 billion, underlining the scale of raw innovation output. Invention disclosures continued to climb; and institutions reported steady startup formation and new products entering the market during the reporting period. Universities reported:
+
+- 26,196 invention disclosures 
+- 14,432 new U.S. patent applications filed 
+
+— the idea machine is humming. But that’s only half the story. The real signal shows up here:
+
+- 9,507 licenses and options executed, 
+- 775 new products created, and 
+- 951 startups formed. 
+
+That’s the difference between programming and productivity. One fills seats. The other produces outcomes.
+
+When a TTO builds structured decision points — milestones that reduce technical risk, demonstrate market interest, and negotiate commitment — it makes progress. The AUTM survey[@autm2024licensing] shows that offices leaning into those practices continue generating startups, licenses, and other real, quantifiable outcomes.
+ 
+# The Pitch Day Trap
+
+If your commercialization system treats packed pitch rooms and demo nights as the success metric, you’ve lost the plot.
+
+In many TTO/OTC-linked commercialization ecosystems, pitch competitions and showcase events become the de-facto milestones — the things you build calendars around, measure “engagement” on, and post about afterward. But if you treat that as progress, if you treat stage presence and applause as alignment, you’re optimizing for performance, not outcomes.
+
+An effective pitch shouldn’t be just a god performance. Pitching is supposed to come after the hard questions about what comes next and why have been answered:
+
+- What is the next commercialization decision, and what evidence clears it?
+- What proof of market interest have you gathered?
+- What experiments remain, and how quickly can you run them?
+- What is your stopping rule — the point at which you decide to pivot or halt?
+- What commitment are you asking for, specifically, and why now?
+
+A field study of pitch training — where would-be founders were randomly assigned to receive training or not and then tracked over time — found that training does indeed improve pitch delivery and increases participation in future competitions and related programming[@assenova2024poised].
+
+Participants worked on their pitches longer and appeared in more events and accelerators afterward. But those gains in presentation quality and participation did not reliably translate into stronger, long-term outcomes like hiring employees or sustaining ventures; in fact, those who received pitch training were sometimes more likely to abandon their initial ventures.
+
+In plain English: better slides and a confident stage presence will get a presenter into more demo nights and more pitch rooms. They do not automatically make your venture more investable, more viable, or more likely to survive in the marketplace.
+
+When commercialization systems reward strong stage presence over timely decision-making, they end up optimizing for packed pitch rooms, high attendance counts, and social media engagement instead of optimizing for what really matters: licenses executed, capital committed, partnerships formed, market captured, and ventures launched.
+
+If your KPI is how many teams stood on stage and burped their way through a slide deck at whatever Showcase last fall, you’ll get pitches. You’ll get a lot of them. But, if your KPI is how many of those teams executed a license or secured a defined and material commitment within six months, you’ll build a very different system — a system built around decisions and outcomes, not optics
+
+Better ceremony. Same marriage rate.
+
+# Time Is **The** KPI
+
+If you want to know whether a commercialization system is real, don’t look at the calendar. Look at the clock.
+
+- How long from disclosure to a provisional filing?
+- How long from MTA or option agreement discussion to execution?
+- How long from CDA/NDA to a term sheet?
+
+Time is a truth serum. It exposes what dashboards politely ignore.
+
+Because delays are rarely mysterious. They usually mean one of three things: no one owns the decision, no one wants to make the call, or the system is far better at generating meetings than it is at producing outcomes.
+
+Every extra month between interest and action increases the odds that an investor reallocates capital, a corporate partner shifts priorities, or a founder decides to build somewhere else. Not because they’re impatient — because the market is impatient. Because they have options.
+
+This is the part institutions don’t like to say out loud: if your system tolerates slow decisions, it’s not aligned with markets. It’s aligned with itself.
+
+Time-to-decision isn’t an internal bureaucratic KPI. It’s a market-alignment metric. It tells you whether your system can convert curiosity into commitment — innovation into impact — before the opportunity expires.
+ 
+# The Ecosystem Doesn’t Wait
+
+If a university can’t move technology from the lab into the real economy — if it can’t force decisions, clarify pathways, or reduce risk in ways that matter — the ecosystem does not slow down out of courtesy.
+
+It adapts.
+
+Sometimes it routes around you entirely. Founders form companies elsewhere. Industry partners engage directly with labs. Investors source deal flow through informal networks that bypass the official programming.
+
+Other times it flows straight through you with almost no effect — like a hiccup in a hurricane. The meetings happen. The showcase gets hosted. Attendance numbers stay strong. The LinkedIn posts perform. The calendar fills. Everyone feels busy.
+
+And nothing changes.
+
+This is where institutional self-deception creeps in. Because the signals you’re tracking — applications, engagement, event turnout — all point upward. It feels like momentum. But when you look at the metrics that matter — capital committed, durable partnerships formed, technologies licensed, companies surviving beyond year one — the line is flat.
+
+The ecosystem didn’t reject you. It just didn’t need you.
+
+And when that happens consistently, you don’t become a catalyst. You become a waypoint — a well-lit and highly visible stop along the way to somewhere else. 
+
+You become indispensable to the ceremony, admired for the coordination, absent from the commitment.
+ 
+# The Bottom Line
+
+Much like a marriage, only after the ceremony ends, can commitment really begin. A startup begins when capital is committed, customers are captured, and revenue is generated.
+
+Until then, it’s just rehearsal, theater at best.
+
+Universities do not lack talent. Or energy. Or ambition. What they lack is a model built for commitment. The current architecture excels at producing programming — panels, pitch nights, demo days, accelerators — because those outputs are visible, repeatable, and institutionally safe.
+
+But commercialization is not choreography:
+
+- It is capital allocation.
+- It is customer acquisition.
+- It is execution under constraint.
+
+If you want companies instead of calendars, the system must reward progression over participation and move technologies, inventors, and teams toward real decision points — fund or don’t, build or stop, move forward or go the way of the dodo. 
+
+Otherwise, folks in such systems will continue mistaking activity for productivity and events for outcomes. 
+
+And we, dear reader, will remain an act one J-Lo in The Wedding Planner — perfecting the seating chart while waiting for Matthew McConaughey to stroll in with his Texan twang, sweep us off our feet, and make it all real.

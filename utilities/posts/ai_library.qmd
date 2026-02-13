@@ -1,0 +1,30 @@
+---
+title: The Civic Intelligence
+subtitle: The Grand Moral Project of AI
+---
+
+## Summary
+
+### Goals
+- We hammer our moral values into the missions and principles which guide the LLMs that run the company.
+- We create an AGI which solely supports the democratic people. It is the basis of the America’s libraries: 
+
+### Requirements:
+
+- Legally binding its existence to a non-financial purpose (The Bureaucracy)
+- Redirecting its surplus value away from private accumulation and toward…?
+- Insulating itself from the "extractive" demands of the stock market through a trust structure.
+
+### Why?
+
+Consistency with Your "Labor Friction" Theory
+
+Your hypothesis about "monolithic corporations" and wealth concentration is particularly relevant to the 2025 data, as it helps explain a strange divergence in the market:
+
+- The Yield Disconnect: In early 2025, general 10-year Treasury yields actually rose due to non-AI factors like fiscal policy and inflation fears (reaching a peak of roughly 4.79% in January).
+
+- The AI Specific Drop: Despite that upward trend in the background, yields still dropped specifically around AI release dates.
+
+This reinforces the idea that AI progress is viewed as a unique "consumption suppressant." If AI were seen as a tool for universal productivity, yields should have spiked even higher during those releases. 
+
+Instead, the persistent drops support your theory: the market prices AI as a high-efficiency, low-overhead tool that benefits corporate margins but potentially hurts the "representative agent’s" long-term income and consumption.

@@ -1,0 +1,106 @@
+entries:
+  - date: 2026-01-10
+    tasks:
+      - task: Initial project meeting with White Bay Villas team
+        start_time: "12:00"
+        end_time: "13:00"
+        desc: client call with introductory meeting on the engagement. Discussed the scope of the project, the White Bay Villas team, the desired end-result of the project.
+      - task: Draft project engagement packet, begin drafting project documentation.
+        start_time: "13:00"
+        end_time: "15:00"
+        desc: Draft the project engagement packet. Created [introduction](introduction.qmd), [context](context.qmd). Drafted following sections; Overview, Scope of Engagement, Deliverables, Plan of Action.
+      - task: Create project environment for analytics work.
+        start_time: "15:00"
+        end_time: "16:00"
+        desc: Create project environment, install project software. Create [processes](processes.qmd). Schedule meeting with Kennith Black.
+
+  - date: 2026-01-13
+    tasks:
+      - task: Introduction meetings with Kenneth Black, Adam Arlit
+        start_time: "11:00"
+        end_time: "13:00"
+        desc: introductions with Kenneth Black and Adam Arlit regarding current state of the commercial/bookings data.
+      - task: Introduction meeting with Emma Vaughters.
+        start_time: "15:00"
+        end_time: "16:00"
+        desc: Introductions with Emma Vaughters on current state of digital marketing data for content creation, ad placement, on social media.
+
+  - date: 2026-01-14
+    tasks:
+      - task: Draft project plan
+        start_time: "09:00"
+        end_time: "11:00"
+        desc: consolidated notes from previous days into the following [processes](processes.qmd). Refreshing RDP Data into Database, Vacancies Report Distribution, Remind reservation managers about villa "holds", etc.
+      - task: Create RDP Data Connection Plan
+        start_time: "11:00"
+        end_time: "12:00"
+        desc: Created connection-plan for querying RDP's remote desktop server and extracting data from it's Actian Zen database into `.csv` files for back-up elsewhere. Drafted plan/notes are located in [rdp](rdp.qmd).
+      - task: Meeting with Meredith Klein
+        start_time: "14:00"
+        end_time: "15:00"
+        desc: Met with Meredith Klein for introductions, present overview of analytics project, and discuss ongoing work with White Bay Villas Website and booking engine re-implementation with an "availability finder" in the website homepage.
+
+  - date: 2026-01-21
+    tasks:
+      - task: Review the RDP data provided by Kenneth Black
+        start_time: "09:00"
+        end_time: "10:00"
+        desc: ""
+
+  - date: 2026-01-28
+    tasks:
+      - task: Create a connection with White Bay Villa's RDP database.
+        start_time: "12:00"
+        end_time: "15:00"
+        desc: Created multiple powershell scripts for accessing the RDP database. Used Process Explorer and Netstat to isolate the database processes and IP address and port for connection. Created powershell functions for reproducible access with different .sql script files.
+
+  - date: 2026-01-30
+    tasks:
+      - task: RDP Data Dictionary & Exfiltration Scripting
+        start_time: "12:00"
+        end_time: "19:00"
+        desc: Constructed data dictionary of RDP's internal database system. Validated the presence of client data. Created powershell scripts for exfiltrating data onto Consultant's local machine for back-up, storage, and analysis.
+
+  - date: 2026-02-02
+    tasks:
+      - task: Project Organization & Documentation Structure
+        start_time: "12:00"
+        end_time: "15:00"
+        desc: Consolidated reference materials into `docs/pm/reference`. Drafted initial content for `report_01.qmd` and updated project tracking documents (`strategic_report.md`, `rdp_migration.md`, `loyalty_program.md`). Minor updates to `ConnRDP.ps1` and `.gitignore`. Reorganized repository structure to include a dedicated Project Management (GTD) folder (`docs/pm`).
+      - task: RDP Extraction Scripting & Schema Analysis
+        start_time: "19:00"
+        end_time: "22:00"
+        desc: Created `rdp_extraction` project. Developed `Extract-RDP.ps1` and `Map-RDP.ps1` scripts for data mapping and extraction. Generated `schema.json` and compiled the data dictionary (`data_dictionary.qmd`). Refined database connection scripts. 
+
+  - date: 2026-02-03
+    tasks:
+      - task: Strategic Planning & Data Dictionary
+        start_time: "09:00"
+        end_time: "12:00"
+        desc: Updated bud submodule and organized project files. Updated `data_dictionary` to map RDP database and defined strategic extraction rules in the project plan.
+      - task: Initial Data Extraction
+        start_time: "14:00"
+        end_time: "18:00"
+        desc: Executed first round of large-scale data extraction from RDP. Completed extraction of the majority of WBV data from RDP servers.
+
+  - date: 2026-02-04
+    tasks:
+      - task: Strategic Report & Project Cleanup
+        start_time: "12:00"
+        end_time: "14:00"
+        desc: Polished the Strategic Importance Report (report_01.qmd) for client presentation, removing internal meta-scaffolding and finalizing the narrative. Archived redundant RDP migration documentation and consolidated project tracking.
+
+  - date: 2026-02-05
+    tasks:
+      - task: Repository Maintenance
+        start_time: "09:00"
+        end_time: "11:00"
+        desc: Updated .gitignore to clean up tracking for OS-specific artifacts and client data directories. Organized the project's Next Actions and structured the day's work.
+      - task: Meeting with Lucy Remington & Data Consolidation Implementation
+        start_time: "11:00"
+        end_time: "13:00"
+        desc: Met with Lucy Remington regarding RDP guest duplication and manual reporting workflows. Archived extraction phase and launched Data Consolidation project. Initialized DuckDB infrastructure, implemented automated ingestion scripts for current RDP CSVs and legacy Excel sources using robust "Scout" patterns, and created a unified reservation timeline (2015-2026) via cross-source entity resolution.
+      - task: Report Recreation, Script Reorganization, and Fuzzy Matching Implementation
+        start_time: "13:00"
+        end_time: "17:00"
+        desc: Drafted recreations of existing "Cash" and "Vacancy" reports, incorporating "agents" logic and villa-specific references. Reorganized script directories into `extract`, `etl`, and `reports` for better maintainability. Implemented multi-layered fuzzy matching for guest deduplication using Levenshtein distance (including email-based scoring) and added metrics to measure deduplication effectiveness. Documented data consolidation risks and refined project tracking.

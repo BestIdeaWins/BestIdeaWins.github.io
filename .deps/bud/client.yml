@@ -1,0 +1,33 @@
+entries:
+  - poc:
+    - fname: John
+      lname: Klein
+      email: jklein@risebi.com
+  - team:
+    - fname: Adam
+      lname: Arlit
+      email: adamarlit@gmail.com
+    - fname: Lucy
+      lname: Remmington
+      email: lucy@jostvandyke.com
+    - fname: Ken R.
+      lname: Black
+      email: ken.r.black@gmail.com
+    - fname: Delano
+      lname: ""
+      email: delano@jostvandyke.com
+    - fname: Meredith
+      lname: Klein
+      email: meredithklein13@gmail.com
+    - fname: Emma
+      lname: Vaughters
+      email: emmacvaughters@gmail.com
+    - fname: Maria
+      lname: Ferguson
+      email: maria@jostvandyke.com
+    - fname: Amy
+      lname: ""
+      email: amy@jostvandyke.com
+    - fname: Heidi
+      lname: ""
+      email: "" 

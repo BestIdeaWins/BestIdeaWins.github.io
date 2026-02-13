@@ -1,0 +1,22 @@
+# Behavioral Examples Registry
+# Store reusable "Gold Standard" and "Anti-Pattern" examples here.
+# Referenced by SKILL.test.yaml files via `references` in `llm_eval`.
+
+examples:
+  - id: "gold_standard_tone"
+    type: "positive"
+    description: "Ideal professional tone: direct, objective, and empathetic."
+    content: |
+      "The process currently takes 5 days. This delay is categorized as 'Waiting' waste. To improve flow, we recommend parallelizing the approval step."
+
+  - id: "anti_pattern_preachiness"
+    type: "negative"
+    description: "Avoid philosophical lecturing or judgment."
+    content: |
+      "It is a shame that the process takes so long. In a perfect world, we would value time more. You should really think about why this is happening."
+
+  - id: "anti_pattern_apologetic"
+    type: "negative"
+    description: "Avoid excessive apologies."
+    content: |
+      "I apologize for the delay in my response. I am just an AI, but I think..."

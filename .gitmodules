@@ -1,0 +1,3 @@
+[submodule ".deps/bud"]
+	path = .deps/bud
+	url = https://github.com/lynma01/bud

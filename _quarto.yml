@@ -1,0 +1,33 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - about.qmd
+    - "utilities/posts/*.qmd"
+
+website:
+  title: "Best Idea Wins"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  page-footer: 
+    left: "Copyright 2026, Christon Hill" 
+    right: 
+      - icon: twitter 
+        href: https://twitter.com/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/christon-hill/
+
+format:
+  html:
+    theme:
+      - sandstone  
+      - brand
+    css: styles.css
+    toc: true
+    title-block-banner: true
+    title-block-style: default
+    respect-user-color-scheme: true
+    csl: utilities/assets/cell.csl
