@@ -10,7 +10,7 @@
 <atom:link href="https://BestIdeaWins.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Fri, 13 Feb 2026 19:53:50 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 20:43:47 GMT</lastBuildDate>
 <item>
   <title>Event Planning Is Not Innovation</title>
   <link>https://BestIdeaWins.github.io/posts/event_planning.html</link>
@@ -192,8 +192,155 @@
 </div>
 </div></section><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div></div></section></div> ]]></description>
   <guid>https://BestIdeaWins.github.io/posts/event_planning.html</guid>
-  <pubDate>Fri, 13 Feb 2026 19:53:50 GMT</pubDate>
+  <pubDate>Fri, 13 Feb 2026 20:43:47 GMT</pubDate>
   <media:content url="https://images.unsplash.com/photo-1532712938310-34cb3982ef74?q=80&amp;w=1470&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.1.0&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" medium="image"/>
+</item>
+<item>
+  <title>It’s Not That Kind of Meeting</title>
+  <link>https://BestIdeaWins.github.io/posts/that_kind_of_meeting.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="part-i-why-youre-pitching-wrong" class="level1">
+<h1>Part I: Why You’re Pitching Wrong</h1>
+<section id="foreword" class="level2">
+<h2 class="anchored" data-anchor-id="foreword">Foreword</h2>
+<p>This series examines why early-stage technical founders with strong ideas and credible science often struggle to advance their pitches. Each piece isolates a different repeated pattern of mistakes across university spinouts and science-driven startups.</p>
+<p>By the end, we’ll have articulated an investor’s mindset when they evaluate a technical pitch- making the entire thought-process legible so founders can know the rules of the inscrutable game investors are playing.</p>
+<p>At Georgetown Tech Ventures, I work with early-stage academic startups and university spinouts every day—that means watching, reviewing, and refining pitches from faculty, graduate students, first-time founders, and newly formed teams. I watch them try, win or lose, to transmute research into companies.</p>
+<p>It also means sitting on evaluation panels, judging pitch competitions, and seeing how different audiences can react differently to the same pitch.. It’s my job to sit, listen, question, and observe- the founders, the context, the science, and the outcomes. After a while, the patterns of behaviors that separate wins from losses have become undeniable:</p>
+<p>Smart people. Serious work. Strong science. And yet, the pitch misses—not because the idea is bad, but because the pitch answers a different question than the one the audience is asking.</p>
+<p>Earlier in my career, I was on the other side of the table; I ran a company and pitched to investors. Those accumulated experiences crystallized an idea: what compels founders often does not compel investors to commit time, resources, credibility, or capital.</p>
+<p>This series is written from the accumulation of those experiences then and now. This isn’t pitch coaching, presentation advice, or a checklist for founders to “become better storytellers.”</p>
+<p>This series explains how early-stage pitches are actually evaluated—and why so many well-intentioned founders, especially technical ones, systematically miss the decision they’re trying to influence.</p>
+</section>
+</section>
+<section id="its-not-that-kind-of-meeting" class="level1">
+<h1>It’s Not That Kind of Meeting</h1>
+<section id="what-founders-think-pitching-is" class="level2">
+<h2 class="anchored" data-anchor-id="what-founders-think-pitching-is">What Founders Think Pitching Is</h2>
+<p>Most early-stage technical founders—particularly those coming out of academic environments—approach pitching like a poster presentation.</p>
+<p>The instinct is straightforward: lay out the problem, describe the solution, and walk through the underlying research—often in unintentionally excruciating detail.</p>
+<p>The presumption being that with enough context, the right conclusion should follow and the value will be obvious.</p>
+<p>The instinct isn’t careless. It’s an engrained belief trained over decades and perpetuated by mentors, peers, and expectant subordinates: .</p>
+<p>Credibility is earned by demonstrating rigor and command of detail. Posters, papers, grant applications, dissertation defenses—these are formats where explaining the science is the work.</p>
+<p>Precision is rewarded. Completeness signals seriousness. The ability to defend assumptions is the measure of competence.</p>
+<p>So, when these founders pitch, they do what humans do best: fall back on the trained behaviors they know work.</p>
+<p>If pitching was a question of science we wouldn’t need investors- we’d have more grant panels.</p>
+<p>Founders often assume the audience is engaging like a reviewer or examiner—that the primary task in the room is comprehension.</p>
+<p>But pitch audiences, and the investors that compose them, are not trying to understand because investors are not in the business of understanding. Investors are in the business of deciding:</p>
+<p>Whether to keep listening or engage further. Whether to allocate scarce time, attention, credibility, or capital to the opportunity presented to them right now.</p>
+<p>As a lifelong cinephile, allow me to put this in familiar terms,</p>
+<ul>
+<li><p>A pitch is more akin to a movie trailer: it’s selective and compressed; a few scenes, a sense of stakes, and a reason to keep watching.</p></li>
+<li><p>What I see technical founders actually make is a director’s commentary: a long-form explanation to an already invested audience that wants to understand how the movie came to be.</p></li>
+</ul>
+<p>Most pitch rooms are made for movie trailers, even if founders show up with their commentary track.</p>
+<p>Until that misalignment is addressed, no amount of refinement helps:</p>
+<ul>
+<li>You can explain better and still stall.</li>
+<li>You can add slides and still lose momentum.</li>
+<li>You can articulate extraordinary science and still fail to trigger a decision.</li>
+</ul>
+<p>To understand why, we first have to be clear.</p>
+</section>
+</section>
+<section id="what-a-pitch-is-not" class="level1">
+<h1>What a Pitch Is Not</h1>
+<section id="a-pitch-is-not-a-poster-presentation." class="level2">
+<h2 class="anchored" data-anchor-id="a-pitch-is-not-a-poster-presentation.">A pitch is NOT a poster presentation.</h2>
+<p>A poster is designed for depth. It rewards completeness. It invites detours.</p>
+<p>For example, if someone wants to zoom in on a methodological choice, a control condition, or an edge case, that’s a feature—not a flaw.</p>
+<p>The discussion can meander in the manner as the path of discovery; never linear, never expected, and it’s a richer discussion for it.</p>
+<p>A pitch isn’t built for that.</p>
+</section>
+<section id="a-pitch-is-not-a-white-paper." class="level2">
+<h2 class="anchored" data-anchor-id="a-pitch-is-not-a-white-paper.">A pitch is NOT a white paper.</h2>
+<p>White papers assume time.</p>
+<p>They assume rereading. They assume the reader can pause, backtrack, annotate, and come back later. They are meant to be referenced and absorbed. They can carry nuance because the format allows for it.</p>
+<p>A pitch doesn’t allow for that kind of attention.</p>
+</section>
+<section id="and-a-pitch-is-not-a-grant-application." class="level2">
+<h2 class="anchored" data-anchor-id="and-a-pitch-is-not-a-grant-application.">And a pitch is NOT a grant application.</h2>
+<p>Grant logic is about justification.</p>
+<p>It’s a case for continued research that is often evaluated by people who are trained to reward technical merit and methodological thoroughness.</p>
+<p>Pitch logic is similar, but the audience is very different. Investors are not deciding whether your work is worthy of continued research. They’re deciding whether it’s worth it to them; their time, their attention, their credibility, their capital—right now, and relative to everything else— they could support instead.</p>
+<p>The science never fails in these scenarios. The pitch does.</p>
+<p>Founders bring the instincts that earned them success in one arena into a room governed by an entirely different set of rules.</p>
+<p>It’s like dropping a pole vaulter into a hockey game—they could be world-class, but they didn’t train to take a hit from a six-foot-five enforcer who’s built like a refrigerator.</p>
+<p>In pitch rooms, there’s no deafening air horn and no flashing scoreboard. The loss is quieter because it manifests as polite disengagement. That’s why the feedback often sounds encouraging, even when it’s a clear no:</p>
+<ul>
+<li>“This is really interesting work.”</li>
+<li>“You clearly know the space well.”</li>
+<li>“I’m not sure it fits our focus right now, but it’s thoughtful work.”</li>
+</ul>
+<p>A pitch is not a poster, paper, or grant application.</p>
+<p>So, what is it?</p>
+</section>
+</section>
+<section id="a-pitchs-purpose" class="level1">
+<h1>A Pitch’s Purpose</h1>
+<p>Time is limited. Attention is divided. Every pitch is assessed relative to alternatives—other teams, other technologies, other possible uses of the same scarce resources. Comparison is constant, whether it’s acknowledged or not.</p>
+<p>Now, pause for a moment.</p>
+<p>Read the first paragraph again and replace the word “pitch” with the word “decision”. Notice how smoothly the sentences align together despite neither word being a synonym of the other.</p>
+<p>This is the context most technical founders overlook: pitches drive investment decisions.</p>
+<p>Founders prepare as if they’re entering a museum, only to realize too late that they’ve stepped into an auction house, explaining the item’s history while the room is deciding whether to bid.</p>
+<p>They arrive inside an active sorting process, where decisions are made with partial information, finite attention, and a certainty that only a small number of opportunities will move forward.</p>
+<p>And the capital being sorted in these rooms isn’t just money. Especially early on, the capital at stake includes time, attention, credibility, and institutional bandwidth.</p>
+<p>That can mean a follow-up meeting, an introduction, advocacy behind closed doors, or a willingness to be associated with the work.</p>
+<p>Seen through that lens, the governing question of a pitch becomes clearer.</p>
+<p>A pitch is not answering:</p>
+<ul>
+<li>“Is this interesting?”</li>
+<li>“Is this impressive?”</li>
+<li>“Is this scientifically rigorous?”</li>
+</ul>
+<p>Many, if not most, technically strong pitches answer those questions well and affirmatively- then stall.</p>
+</section>
+<section id="all-pitches-decide-one-question" class="level1">
+<h1>All Pitches Decide One Question:</h1>
+<p>This is the question so many technical pitches abstain from answering at the moment it matters most: “should we allocate scarce resources to move this technology and team forward?”</p>
+<p>Or even more precisely:</p>
+<blockquote class="blockquote">
+<p>“Is this a good use of scarce capital, right now?”</p>
+</blockquote>
+<section id="what-the-room-decides-about-you" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-room-decides-about-you">What The Room Decides About You</h2>
+<p>Ideas evolve. Markets shift. Assumptions fail. Everyone in the room knows that. If academia is the classical physics of the proven, capital is the dark matter of the possible—synthesizing empirical data with the unquantifiable gravity of markets.</p>
+<p>That is to say, investors aren’t just assessing your work’s empiricism, they’re also assessing you.</p>
+<p>When founders talk about tradeoffs; when they demonstrate their priorities when time runs short; when they can acknowledge uncertainty without losing their footing; whether their answers suggest they’ve navigated difficulties before, or if this is the first real test.</p>
+<p>Investors hunt for these signals- <em>any</em> information which gives investors an edge is information they’ll leverage: in what founders emphasize, what they skip, in how they handle questions when the conversation veers off script. It’s all fair game.</p>
+<p>This is not because the audience is ignoring the idea. It’s because the idea is solid and, for an investor to conduct their due diligence, they have to test everything else- especially you.</p>
+</section>
+</section>
+<section id="what-this-means" class="level1">
+<h1>What This Means</h1>
+<p>Once pitching is understood as a decision environment rather than an exercise in explanation and comprehension, many of the most common gripes start to make more sense.</p>
+<ul>
+<li>Why more technical explanation rarely helps.</li>
+<li>Why structure exists.</li>
+<li>Why narrative matters.</li>
+</ul>
+<p>Though these might seem like stylistic preferences or arbitrary hurdles, they are, in fact, features of a decision where saying yes means saying no to someone else. This reframe doesn’t make pitching easier, but it clarifies what pitching is actually doing. Not proving the idea, but answering a vital, specific set of questions about priority, judgment, and readiness to move forward. Right now.</p>
+<blockquote class="blockquote">
+<p>It’s not that the idea is wrong. It’s that it’s not that kind of meeting.</p>
+</blockquote>
+</section>
+<section id="whats-next" class="level1">
+<h1>What’s Next</h1>
+<p>Thanks for reading. If this resonates—even if it doesn’t—I’d welcome your questions, reactions, or counter-examples.</p>
+<p>Future pieces in this series will examine how narrative influences decisions, why pitch structure exists and what breaks when it’s ignored, how different pitch rooms produce different outcomes, and how to interpret both noes and yeses once the meeting is over.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Why You&#39;re Pitching Wrong</category>
+  <guid>https://BestIdeaWins.github.io/posts/that_kind_of_meeting.html</guid>
+  <pubDate>Fri, 13 Feb 2026 20:43:47 GMT</pubDate>
 </item>
 </channel>
 </rss>

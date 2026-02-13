@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://BestIdeaWins.github.io/posts/event_planning.html</loc>
-    <lastmod>2026-02-13T19:53:40.455Z</lastmod>
-  </url>
-  <url>
-    <loc>https://BestIdeaWins.github.io/about.html</loc>
-    <lastmod>2026-02-13T19:53:40.453Z</lastmod>
+    <loc>https://BestIdeaWins.github.io/posts/that_kind_of_meeting.html</loc>
+    <lastmod>2026-02-13T20:43:35.397Z</lastmod>
   </url>
   <url>
     <loc>https://BestIdeaWins.github.io/index.html</loc>
-    <lastmod>2026-02-13T19:53:40.453Z</lastmod>
+    <lastmod>2026-02-13T20:43:35.396Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BestIdeaWins.github.io/about.html</loc>
+    <lastmod>2026-02-13T20:43:35.395Z</lastmod>
+  </url>
+  <url>
+    <loc>https://BestIdeaWins.github.io/posts/event_planning.html</loc>
+    <lastmod>2026-02-13T20:43:35.397Z</lastmod>
   </url>
 </urlset>
