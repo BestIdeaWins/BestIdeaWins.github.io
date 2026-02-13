@@ -1,2 +1,9 @@
 # BestIdeaWins.github.io
-Website
+
+Quarto Static Website.
+
+## Sitemap
+
+- Index
+  - posts/*.qmd
+- About

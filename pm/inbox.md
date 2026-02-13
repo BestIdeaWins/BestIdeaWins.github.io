@@ -1,5 +1,5 @@
 # Inbox
 
-- [ ] Create a github.io website and accompanying organization to host a static website as a mock-up.
-- [x] Pick a Name: The Perfect Startup 
 
+- [ ] posting the other content that Christon has sent previously, 
+- [ ] setting up some kind of content management system - I think I can self-host something to keep it boot-strapped/free.

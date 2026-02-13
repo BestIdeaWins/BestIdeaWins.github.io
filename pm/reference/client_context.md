@@ -15,3 +15,6 @@
 **Key Themes:**
 - **Human Connection:** Authenticity, cold emails, personal connection.
 - **Anti-Corporate Speak:** Mocking the "grind-set" and overly technical jargon.
+
+**Inspiration:**
+- https://seobrien.com/university-tech-transfer
