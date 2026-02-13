@@ -28,7 +28,9 @@ format:
       - sandstone  
       - brand
     css: styles.css
+    page-layout: full
     toc: true
+    toc-expand: true
     title-block-banner: true
     title-block-style: default
     respect-user-color-scheme: true
