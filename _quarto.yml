@@ -31,4 +31,4 @@ format:
     title-block-banner: true
     title-block-style: default
     respect-user-color-scheme: true
-    csl: utilities/assets/cell.csl
+    csl: assets/cell.csl
