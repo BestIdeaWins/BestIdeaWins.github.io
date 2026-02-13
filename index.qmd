@@ -1,7 +1,10 @@
 ---
-title: "The Perfect Startup"
+title: "The Best Idea Wins"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

@@ -1,6 +1,7 @@
 ---
 title: The Civic Intelligence
 subtitle: The Grand Moral Project of AI
+draft: true
 ---
 
 ## Summary

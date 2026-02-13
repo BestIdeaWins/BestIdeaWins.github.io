@@ -1,9 +1,10 @@
 project:
   type: website
+  output-dir: docs
   render:
     - index.qmd
     - about.qmd
-    - "utilities/posts/*.qmd"
+    - "posts/*.qmd"
 
 website:
   title: "Best Idea Wins"
