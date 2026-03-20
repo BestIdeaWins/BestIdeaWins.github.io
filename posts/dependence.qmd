@@ -1,0 +1,60 @@
+---
+title: LLM Dependence
+date: 2026-03-20
+draft: true
+categories:
+  - LLMs and Early Careers
+---
+
+# "But I Don't Want to Become Dependent"
+
+The most common objection I hear about working with LLMs is the fear of dependency. People worry that if they lean on an AI for implementation, research, or thinking through problems, they'll lose the ability to do those things themselves. The concern is reasonable *and* misses the point.
+
+Managers don't worry about "becoming dependent" on their team. A director does not lie awake wondering whether she's atrophied because she no longer makes the financial models herself. She has a different job now. Her effectiveness is measured by the quality of the questions she asks, the clarity of the priorities she sets, and whether the people working under her have what they need to do good work. The tool changed. The standard of contribution changed with it.
+
+This is the shift that LLMs are forcing on knowledge workers, and it explains why the technology makes people uncomfortable in a way that earlier tools did not: LLMs remove the excuse that busyness was ever a substitute for judgment.
+
+## We Are All Managers **Now**
+
+If you accept the premise that an LLM is less like a calculator and more like a very fast, somewhat unreliable junior employee, then the question changes. You stop asking "am I becoming dependent?" and start asking the questions any competent manager would ask: 
+
+> Have I given this subordinate what they need to meaningfully do the job? 
+
+Good managers don't hand someone a vague assignment and then blame them for the result. They provide context, constraints, and clear success criteria. The same discipline applies to a prompt. If your LLM is producing mediocre work, the first place to look is the quality of the briefing you gave it.
+
+> Is the work I'm delegating the highest-value use of this resource? 
+
+Time and attention are finite. A manager who has her best engineers fixing formatting issues is wasting capacity. Likewise, if you're using an LLM to do things you could do in three minutes, while keeping all the heavy work for yourself at 11 PM, you've made a poor allocation decision. Not because you're wrong to be distrustful of LLMs output, but because you've abdicated the important decision of "What can I reasonably delegate to an LLM and still expect a good outcome?".
+
+> Does the output meet the standard? 
+
+Managers are accountable for deliverables, regardless of who (or what) produced it. When you delegate implementation to an LLM, you haven't delegated responsibility. You still need to evaluate the result, catch errors, and decide whether the work is good enough to put your name on.[^meta_sev1] Conversely, you don't have the luxury of an ego if you're committed to being a good manager: **your** performance is measured by **other people's** output. 
+
+Your biggest prerogatives are: "How do I get better, sustainable performance out of the people and technology available to me?", and "How do I improve my team's capability to create sustainable value for the organization?". 
+
+# The Spotlight Problem
+
+When an LLM handles the implementation — the boilerplate code, the first draft, the research synthesis — what remains is the work that only you can do. And that work is harder to fake.
+
+> The real discomfort with LLMs is about losing deniability. 
+
+The questions that matter now are the ones most people have been deferring: 
+- Am I meaningfully creating value for my organization, or am I staying busy? 
+- What does success look like for this project, and how do I know if were off track? 
+- What did I learn today that I didn't know yesterday, and how/if does that change my direction?
+
+These are executive-level questions. They always were. The difference is that before LLMs, the volume of implementation work gave most people a plausible reason not to sit with them. That reason is gone. The implementation can be delegated. What cannot be delegated is the judgment about what to implement, why it matters, and whether it's working.
+
+## The WiFi Test
+
+There's a revealing moment that happens when someone who works heavily with LLMs loses their internet connection. If the first reaction is "I can't work," it means something has gone wrong — not with the tool, but with the relationship to it. A manager whose team is out of the office for a day doesn't stop being useful. She uses the time to think about the things she's been too busy to address: 
+
+- Are we working on the right problems? 
+- What should we stop doing because it no longer adds value? 
+- Where am I trying to be in six months, and does this week's work have any connection to that?
+
+The person without WiFi and a notes app has everything they need for the most important part of the job. The LLM can wait. The thinking shouldn't.
+
+# References
+
+[^meta_sev1]: [This happened in the news recently](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/). It's one of many examples where [lawyers are no longer the only ones who are ending up in the news](https://www.theguardian.com/us-news/2025/may/31/utah-lawyer-chatgpt-ai-court-brief) for blindly relying on LLMs.
