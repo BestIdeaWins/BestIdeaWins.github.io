@@ -1,179 +1,81 @@
----
-title: "H. R. 104"
-author: "HOUSE OF (SOCKPUPPET) REPRESENTATIVES"
-date: "February 27, 2026"
-format:
-  html:
-    theme: litera # Strips away the modern Bootstrap defaults
-    mainfont: '"Garamond", "Times New Roman", serif'
-    fontsize: "12pt"
-    fontcolor: "#000000" # Stark black ink
-    backgroundcolor: "#FDFDFD" # A very subtle off-white to mimic paper
-    linestretch: 2.0
-    number-sections: true
-    number-depth: 3
-    include-in-header:
-      - text: |
-          <style>
-            /* Center the document and constrain width to mimic an 8.5x11 page */
-            body {}
-            
-            /* Center-aligned, small-caps headers */
-            h1, h2, h3, h4 {
-              font-family: "Century Schoolbook", "Garamond", "Times New Roman", serif;
-              font-weight: bold;
-              text-align: center;
-              font-variant: small-caps;
-              margin-top: 2em;
-            }
-            
-            /* Indent the first line of every paragraph, traditional legal style */
-            p {
-              margin-bottom: 2em; 
-            }
-            
-            /* Prevent indenting immediately after a header */
-            h1 + p, h2 + p, h3 + p {
-              text-indent: 0;
-            }
-          </style>
----
-<!--
-# Background
-
-## Plot
-
-- New Washing Machine and Shmurple-Berry Yogurt are in a committee hearing on [The Problem Solvers Caucus](http://problemsolverscaucus.house.gov/). Specifically, how to meaningfully allay the fears of their economically disenfranchised and increasingly extremist voter population- focusing on what's politically achievable given the increasing perception of electoral illegitimacy and threat of partisan violence. 
-
-## Dramatis Personae: Sock Puppet Government
-
-  - [How the sockpuppets actually talk](https://www.congress.gov/event/119th-congress/house-event/118765/text)
-
-  - Princess Monster Truck
-  - Zucchini El Gourdo
-  - New Washing Machine
-  - Shmurple-berry Yogurt
-
-### Zucchini El Gourdo
-
-- Summary:
-  - Regular person, member of the anxious bourgeois 
-  - Is actually a Connecticut Field Pumpkin, but just wants to fit in.
-  - Their dad is in Venture Capital. Decided to go into non-profit management studies in college.
-
-#### Demographic and Sociological Profile
-
-Zucchini El Gourdo is located in New York, another state characterized by immense wealth, exorbitant costs, and profound national political influence. This individual is an "unaffiliated" or independent voter, under the age of 40, residing in a high-density borough such as Queens or Brooklyn. They represent a rapidly expanding demographic anomaly: currently, one in five registered voters in New York City—totaling over one million people—are completely unaffiliated with any political party, and nearly half of this massive voting bloc is under the age of 40.33 They are highly diverse, well-educated, and deeply embedded in the economic engine of the city, yet they feel entirely alienated by the binary, hyper-partisan nature of modern American politics.
-
-#### Core Grievances and Deep Cares
-
-Zucchini El Gourdo's primary concern is economic dignity and the preservation of upward mobility in one of the most expensive urban environments on earth. They are grappling with an astronomical cost of living, exorbitant rent prices, and a housing market that consistently stifles middle-class progress.34 They are acutely aware of the disparity between the immense wealth generated within their city—wealth that heavily subsidizes national political campaigns across the country—and the decaying public infrastructure, struggling transit systems, and complex municipal bureaucracies they must navigate daily.34
-
-Like their counterparts in Texas, they are fundamentally redefining the American Dream. For this unaffiliated voter, the dream is no longer strictly bound to homeownership; it is about economic stability, housing security, and the ability to thrive without living in a state of perpetual financial precariousness.27 They care deeply about effective, functional governance, demanding that the government deliver essential services efficiently rather than engaging in ideological grandstanding.
-
-#### The Anatomy of their Non-Voting Behavior
-
-The abstention of Zucchini El Gourdo is a direct, mathematical result of institutional exclusion and subsequent disillusionment. New York operates under a strict closed primary system, meaning that only registered Democrats and Republicans are legally permitted to participate in the primary elections.33 Because this persona refuses to align with a political party they view as corrupt, inefficient, or out of touch, they are legally locked out of the primary process. In a heavily skewed partisan environment like New York City, the primary election effectively decides the vast majority of local and state races. By the time the general election arrives, this voter feels entirely disenfranchised.
-
-This systemic disenfranchisement is compounded by the behavior of their national representatives. Observing figures like Representative Hakeem Jeffries, the House Minority Leader, this voter sees a political apparatus hyper-focused on national partisan warfare and the maintenance of legislative majorities.21 National polling indicates that approximately 65% of voters believe Democrats in Congress are "out of touch" with the concerns of most people, a sentiment strongly shared by this persona regarding both major parties.37 When the general election arrives, this voter often stays home, reasoning that the candidates on the ballot were selected by partisan extremes in a primary process they were forbidden from influencing.33
-
-#### The Activist Catalyst and the Ideal Politician
-
-Activating the unaffiliated urban pragmatist requires a fundamental rejection of the standard partisan playbook. They will not mobilize out of party loyalty, nor will they respond to fear-based messaging regarding the opposition. They will only engage if they believe a candidate represents a genuine, structural disruption to the entrenched political machine.
-
-The ideal politician for this voter is an independent-minded reformer who prioritizes authenticity and tangible results over party doctrine. This candidate must explicitly acknowledge the structural disenfranchisement of the closed primary system and campaign aggressively on a platform of democratic reform—such as the implementation of open primaries or ranked-choice voting—combined with aggressive cost-of-living interventions.33 They must speak honestly about the struggles of the working and middle classes in the city, offering concrete, measurable policy ideas, such as expanding housing vouchers, reforming street vending licenses, or cutting bureaucratic roadblocks that stifle development.34
-
-If this persona finds a candidate who embodies this pragmatic, anti-establishment ethos, they will transform into a highly effective organizer. Because they are untethered from traditional party infrastructure, their advocacy carries immense credibility among their peers. They will operate outside of standard campaign channels, utilizing their vast professional networks, alumni associations, and community ties to persuade other disillusioned independents that a specific candidate is actually worth the effort of casting a ballot, ultimately expanding the electorate beyond its traditional partisan borders.
-
-### Princess Monster Truck
-
-- Summary:
-  - Regular person, raging populist- libertarian anarchist. 
-  - Is one bad bridal-shower away from going off their meds.
-  - Thinks that the ultimate price of power is slowly losing ones mind.
-
-#### Demographic and Sociological Profile
-
-Princess Monster Truck is located in Louisiana, another state suffering from systemic poverty but characterized by a unique set of legislative and economic crises. This individual is a working-class millennial living in the suburban sprawl outside of New Orleans or Baton Rouge. They may be employed in the logistics, hospitality, or energy sectors. They are striving for the middle class but find themselves constantly pushed backward by the soaring cost of living. They are practical, family-oriented, and highly focused on the monthly household budget. They have sporadically voted in past presidential elections but entirely ignore off-year and midterm elections, contributing to Louisiana's historically low voter turnout, which plummeted to 36% in recent gubernatorial primaries and 23% in general elections.
-
-#### Core Grievances and Deep Cares
-
-This persona's primary concerns are entirely economic and hyper-focused on the immediate cost of living. Specifically, they are enraged by the catastrophic property and auto insurance crisis currently gripping Louisiana. They watch as their premiums skyrocket year over year, devouring any wage increases they might earn. They are acutely aware of recent legislative changes, such as the 2025 insurance reforms signed by Governor Jeff Landry, including the "No Pay, No Play" auto insurance threshold shift to $100,000, and the elimination of the Housley Presumption.18 While the government frames these bills as necessary to stop frivolous lawsuits and reduce fraud, this voter perceives them as protective shields for corporate insurance monopolies that leave working people highly vulnerable to financial ruin after a single accident.
-
-Additionally, they are highly sensitive to the concept of "Government Efficiency," a term they have learned to interpret as a coded justification for cutting public services, reducing deeply affordable housing units, and prioritizing corporate tax breaks over citizen welfare.20 They are deeply concerned with the preservation of housing infrastructure, such as the Guste Homes, viewing the potential displacement of vulnerable residents as a direct threat to the stability of their broader community.20
-
-#### The Anatomy of their Non-Voting Behavior
-
-This voter's apathy is rooted in a sense of absolute legislative hegemony. Louisiana has recently transitioned into a Republican supermajority, leaving the Democratic opposition with only 39 of the 137 legislative seats.20 For a pragmatic voter, the electoral math feels insurmountable; they believe their vote is statistically irrelevant in a heavily gerrymandered landscape where outcomes seem predetermined.17
-
-Furthermore, this voter experiences deep frustration with the nationalization of local politics. Their federal representative, Speaker of the House Mike Johnson, operates at the absolute zenith of national political power, controlling the legislative agenda for the entire country.21 However, from the perspective of this persona, national cultural battles and congressional gridlock offer zero relief for their escalating auto insurance premiums or their rising grocery bills. The extreme disconnect between the Speaker's national influence and the state's localized economic suffering generates profound cynicism. They stay home during midterms because they believe politicians of both major parties are fundamentally beholden to corporate lobbying groups rather than the working class.
-
-#### The Activist Catalyst and the Ideal Politician
-
-Activating this persona requires a hard pivot away from nationalized culture wars and toward fierce, localized economic populism. This voter will become an activist only if they believe a candidate is willing to engage in combative, anti-monopoly politics aimed directly at the corporate entities draining their bank accounts.
-
-The ideal politician for this voter is a pragmatic disruptor. They do not want a polished institutionalist; they want a working-class advocate who speaks fluently about the mechanics of insurance rate hikes, utility monopolies, and infrastructure decay. If a candidate can reframe the 2026 midterm election not as a partisan battle for control of Washington, but as a direct referendum on the cost of living and corporate accountability in Louisiana, this non-voter will mobilize. Because they are intensely pragmatic, if they are presented with a clear, mathematically sound plan to lower their monthly expenses, they will view voter mobilization as a financially necessary task. They will transition into an activist by turning out their coworkers, union brothers and sisters, and extended family members, utilizing workplace networks to advocate for candidates promising direct economic relief.
-
-### New Washing Machine
-  - Congressperson from the Great State of Illinois
-  - Thomas Massie-esque
-
-### Shmurple-berry Yogurt
-  - Senator from Delaware
-  - 5-time incumbent, political survivor- says the right words, commits insider trading.
-  - Would never say it out-loud, but thinks Jeffrey Epstein's Island was "for the poors".
-
-# Story
---->
 # The Right to Start a Business
+### Being the Official Transcript of the Committee on the Socio-Political Fabric, Rayburn House Office Building, Room 2123, February 27, 2026, Faithfully Recorded and Annotated for Posterity*
 
-> Official Transcript of the Committee on the Socio-Political Fabric, Rayburn House Office Building, Room 2123, Faithfully Recorded and Annotated for Posterity[^posterity]
+*Posterity has not yet confirmed whether it wanted this.
 
 ---
 
 ## PRELIMINARY NOTES FOR THE RECORD
 
-The Rayburn House Office Building had been constructed in 1965 by a government that believed, with the particular optimism of the postwar era, that the future would require a great many large rooms for important meetings. It had accordingly been given large rooms. The meetings were still happening. The question of whether they were important was one the building had learned, over sixty years, not to ask.[^buildings]
+There is a particular kind of document that humans produce in response to chaos.
 
-The fluorescent lights in Room 2123 hummed at a hypnotic frequency of propagated institutional despair. 
+Not a solution — solutions require agreement on the nature of the problem, which has been tabled pending further review. No: the document produced in response to chaos is a *record.* A transcript. A folder of denial letters. A printed Wikipedia page about Estonia.
+
+The document says: *this happened. I was here. I wrote it down.*
+
+The document does not say, because it doesn't need to: *and therefore it is not entirely out of my hands.*
+
+This is, on balance, not true. But it is one of the more useful not-true things human beings have ever believed, and the civilization that exists — such as it is, humming under fluorescent lights in large rooms built for important meetings — exists in no small part because of it.**
+
+**Room 2123 smelled of recycled air and the specific ghost of ambition that forms when enough people have sat in the same chairs believing, each in turn, that today was the day something would change. The fluorescent lights hummed at a frequency that could not technically be called despair but was renting a studio apartment in the neighborhood and had started leaving its shoes in the hallway.
 
 ---
 
 ## MEMBERS PRESENT
 
-### ELECTED REPRESENTATIVES (SOCKPUPPETS)
+**CHAIRMAN NEW WASHING MACHINE (R-IL):** A Congressman of the libertarian-adjacent persuasion whose fury at the machinery of the state had, over twelve years in office, become so central to his public identity that it was no longer entirely possible — not for his constituents, not for his staff, and on certain late evenings not entirely for him — to locate where the fury ended and the performance of fury began. He shuffled papers the way other men did push-ups: compulsively, and with the suggestion of unresolved aggression.***
 
-**CHAIRMAN OLD WASHING MACHINE (R-IL):** A Congressman of the libertarian-adjacent persuasion who had read the Constitution once and felt personally wronged by approximately sixty percent of it. He shuffled papers the way other men did push-ups: compulsively, and with the suggestion of unresolved aggression.
+***The fury was real. It had simply also become, over time, a brand, a platform, a voting bloc, a fundraising apparatus. The fury had acquired stakeholders. It would be unfair to say this had changed nothing. It would be equally unfair to say it hadn't.
 
-**SENATOR SHMURPLE-BERRY YOGURT (D-DE):** A five-term Senator that inspired the hit reality television show, "Survivor". He had outlasted four presidents, three recessions, and one very serious ethics inquiry by simply never doing anything that couldn't be described as "measured" by pundits his donors watched regularly. His portfolio was up 22% this quarter, mostly in surveillance infrastructure and artisanal bunker manufacturing.[^investments] His tie was the color of compromise. He had worn it to four funerals and twelve fundraising dinners and had stopped feeling the difference around the third funeral.
+**SENATOR SHMURPLE-BERRY YOGURT (D-DE):** A five-term Senator of the variety political scientists describe as a "survivor," which in this context means something subtly different than it does everywhere else.**** His portfolio was up 22% this quarter, weighted toward domestic surveillance infrastructure and artisanal bunker manufacturers. His tie was the color of bipartisan compromise. He had worn it to four funerals and six fundraising dinners and had somewhere around the third funeral stopped being able to tell the difference.
 
----
+He had, buried beneath the metrics, a small and underexercised instrument — not quite conscience, not quite regret, something more like a tuning fork struck a long time ago, still faintly vibrating — that occasionally registered something when the metrics weren't watching. He had learned not to think about it. He was a very accomplished not-thinker-abouter of things. This was, more than any single vote or alliance, the actual engine of his survival.*****
 
-### WITNESSES (ALSO, SOCKPUPPETS)
+****A "survivor" in the biological sense has endured something that tried to kill them. In the political sense, something that tried to *replace* them. The skills required are different. The thing you have to be willing to lose, in order to keep going, is different. He had never examined this distinction directly. He had, however, lived it for twenty-three years.
 
-**ZUCCHINI EL GOURDO**, of Brooklyn, New York: Unaffiliated voter, nonprofit management studies graduate dressed in the specific way of a person who has thought carefully about appearing to not have thought carefully about it. He had a prepared statement. He had bullet points. He had, in the second paragraph, a genuinely insightful observation about closed primary systems that no one in this room was going to quote. He had also, though he would not have admitted this, a faint and stubborn hope. He carried it the way you carry an umbrella in a city where it almost never rains: awkwardly, somewhat embarrassingly, and unwilling to leave it behind.
-
-**PRINCESS MONSTER TRUCK**, of Baton Rouge, Louisiana: millennial, twelve-year hospitality veteran, driver of a 2009 Chevy Silverado with a cracked windshield that State Farm had classified as "cosmetic damage" on three consecutive claims.[^state_farm] She had a manila folder containing three denials, two appeals, one letter from a state regulator that said essentially nothing in four paragraphs, and a printout of Louisiana House Bill 423 annotated in red pen with words that were, technically, opinions. She had placed the folder on the table in front of her- both hands rested upon on it like a executioner resting their hands on the pommel of an axe. She had the expression of a person who had driven seventeen hours and was, therefore, done with preamble.
+*****Whether this constitutes a criticism is left as an exercise for the reader.
 
 ---
 
-## OPENING STATEMENTS
+## WITNESSES
 
-**CHAIRMAN OLD WASHING MACHINE:** The Committee will come to order. "Order", in terms of the "ordering" principle of this institution appears to be the organized redistribution of wealth from people with the least- to the people who have the most, while we all describe it as something else. I recognize the Senator from Delaware.
+**MR. ZUCCHINI EL GOURDO**, of Brooklyn, New York: Unaffiliated voter. Nonprofit management studies graduate. Son of a venture capitalist, which he had declined to become through an act of will that had felt, at the time, like freedom, and which he was still in the process of determining whether it was. He had a prepared statement, bullet points, and an insight in the second paragraph about closed primary systems that six months of research had produced and that nobody in this room was going to quote.
 
-**SENATOR SHMURPLE-BERRY YOGURT:** Thank you, Mr. Chairman. It is a pleasure to be here, or more precisely, it is a necessity to be *seen* here, a distinction this institution has long since stopped making. The American people—
+He also had a faint and stubborn hope. He carried it the way you carry an umbrella in a city where it almost never rains: awkwardly, and unwilling to leave it behind.
+
+**PRINCESS MONSTER TRUCK**, of Baton Rouge, Louisiana: Twelve-year hospitality veteran. Driver of a 2009 Chevy Silverado with a cracked windshield that State Farm had classified as "cosmetic damage" three times, in language so precisely calibrated to the appearance of reasonableness that she had read each letter twice, certain she'd missed where they were wrong.
+
+She had a manila folder containing three claim denials, two formal appeals, one letter from a state regulator that deployed four paragraphs to say nothing with complete grammatical correctness, and a printout of Louisiana House Bill 423 annotated in red pen with words that were, legally speaking, opinions and, morally speaking, verdicts.
+
+She placed the folder on the table and rested both hands flat on top of it.
+
+She did not think of herself as someone who had lost control of her circumstances. She thought of herself as someone who had documented them. This distinction was, for the moment, load-bearing.
+
+---
+
+## THE PROCEEDINGS
+
+**CHAIRMAN NEW WASHING MACHINE:** The Committee will come to order — using "order" in the loosest possible sense, given that the fundamental ordering principle of this institution appears to be the organized redistribution of resources from people who have less to people who have more, while everyone involved describes it as something else and produces documentation to support the description. I recognize the Senator from Delaware.
+
+**SENATOR SHMURPLE-BERRY YOGURT:** Thank you, Mr. Chairman. It is a genuine pleasure to be here.
+
+*[He said this the way a man says something he has said so many times the words have worn smooth, like river stones — not false, exactly, just no longer sharp enough to catch on anything.]*
+
+The American people—
 
 **PRINCESS MONSTER TRUCK:** I drove seventeen hours.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** —are the backbone of this great nation—
 
-**PRINCESS MONSTER TRUCK:** My windshield has a crack in it the size of my forearm and State Farm called it cosmetic damage.
+**PRINCESS MONSTER TRUCK:** My windshield has a crack in it the size of my forearm. State Farm called it cosmetic.
 
-**SENATOR SHMURPLE-BERRY YOGURT:** —and your voices are essential to the democratic—
+**SENATOR SHMURPLE-BERRY YOGURT:** —and your voices are essential to the health of our democracy—
 
 **PRINCESS MONSTER TRUCK:** I have the letters.
 
-*[Witness places a manila folder on the table. The Senator leaned slightly toward his aide.]*
+*[She placed the folder on the table. It landed with the flat authority of something carried a long distance for a specific purpose.]*
+
+*[The Senator leaned toward his aide.]*
 
 **SENATOR SHMURPLE-BERRY YOGURT:** *(to aide)* Can we get her a sedative? Or a cabinet position in the Department of Agriculture?
 
@@ -185,13 +87,13 @@ The fluorescent lights in Room 2123 hummed at a hypnotic frequency of propagated
 
 ## TESTIMONY OF MR. ZUCCHINI EL GOURDO
 
-**CHAIRMAN OLD WASHING MACHINE:** Mr. El Gourdo, you may proceed.
+**MR. ZUCCHINI EL GOURDO:** I represent — in the sense that I am one of, not in the sense that anyone appointed me — approximately 1.1 million unaffiliated voters in New York City. The fastest-growing registration category in the state. Also legally barred from participating in the primary elections that decide virtually every meaningful race, because New York operates a closed primary, which means the party you declined to join on principle is the party that decides your representation without you.
 
-**MR. ZUCCHINI EL GOURDO:** Thank you. I'll be brief because I have to get back to Brooklyn to confirm whether my landlord raised my rent during this opening statement, which is not a joke, or not entirely a joke, which is itself a kind of joke.
+I want to be clear about what that does to a person over time. It doesn't make you angry, exactly. Anger implies a belief that things could be otherwise. What it does is more corrosive. It makes you feel like a category error.
 
-I, like some 1.1 million unaffiliated voters in New York City — the fastest-growing registration category in the state, are locked out of a closed primary system that decides every meaningful race before the rest of us see a ballot. We are highly educated, embedded in the city, and entirely alienated from the binary machinery of modern American politics. Sixty-five percent of voters believe Congress is out of touch with ordinary people. I want to say, for the record, that I think that number is optimistic.
+*[He paused. This was not in the prepared statement.]*
 
-Specifically today, I want to talk about what it actually costs to build something in this country. I tried to start a nonprofit — urban gardening, community food access, nothing that should frighten anyone. The average time to obtain the relevant permits in New York City is fourteen months.
+I tried to start a nonprofit. Urban gardening, community food access. The average time to obtain the relevant permits in New York City is fourteen months. The average small business fails within its first year. I am a well-educated person with institutional connections and a father whose network includes three former deputy mayors, and the system still felt like a locked room where all the locks were on the inside.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** Wonderful. And you're from — Queens?
 
@@ -199,85 +101,103 @@ Specifically today, I want to talk about what it actually costs to build somethi
 
 **SENATOR SHMURPLE-BERRY YOGURT:** *(nodding in a way that suggested Brooklyn confirmed something he had long suspected about Brooklyn)* Mm. I had a very good piece of salmon there in 2019. Great borough.
 
-**MR. ZUCCHINI EL GOURDO:** Fourteen months, Senator. The average small business in America fails within its first year. We are regulating people out of their own ambitions before they have sold a single thing. The system does not feel like a right. It feels like a subscription service I cannot afford, administered by people who have never tried to use it.[^subscriptions]
-
-**CHAIRMAN OLD WASHING MACHINE:** You mentioned fourteen months. You know how long it takes to register a business in Estonia?
-
-**MR. ZUCCHINI EL GOURDO:** ...No?
-
-**CHAIRMAN OLD WASHING MACHINE:** *Eighteen minutes.* Online. *(produces a printed Wikipedia page with the practiced efficiency of a man who keeps Wikipedia printouts the way other men keep business cards)* Estonia looked at the administrative state and concluded: what if we simply *didn't.* And now they have a functional digital society and we have fourteen months and a drainage assessment fee.
-
-**PRINCESS MONSTER TRUCK:** I don't know why Estonia is always the example.
-
-**CHAIRMAN OLD WASHING MACHINE:** Because Estonia got it right and it haunts me.
-
-**PRINCESS MONSTER TRUCK:** Fair.
-
-**SENATOR SHMURPLE-BERRY YOGURT:** I think we can all agree that the regulatory environment presents certain structural challenges that a bipartisan framework could—
-
 **MR. ZUCCHINI EL GOURDO:** My father's venture capital firm did an internal analysis last year. The best return on investment in their entire portfolio was regulatory influence. Buying access to permitting agencies. Better than any direct investment in an actual small business. He showed me the numbers. He thought it was funny.
 
-*[A brief silence, during which the Senator found several things to look at that were not Mr. El Gourdo.]*
+**SENATOR SHMURPLE-BERRY YOGURT:** Well — markets—
+
+**MR. ZUCCHINI EL GOURDO:** It was the least funny thing I've ever seen presented on a slide.
+
+*[A brief silence. The Senator located several things in his notes that required his attention.]*
+
+**CHAIRMAN NEW WASHING MACHINE:** Fourteen months. You know how long it takes to register a business in Estonia?
+
+**MR. ZUCCHINI EL GOURDO:** I've heard—
+
+**CHAIRMAN NEW WASHING MACHINE:** *Eighteen minutes.* *(produces a printed Wikipedia page)* Estonia looked at the administrative state and made a decision. We looked at the administrative state and added a drainage assessment.
+
+**PRINCESS MONSTER TRUCK:** Why is it always Estonia?
+
+**CHAIRMAN NEW WASHING MACHINE:** Because Estonia got it right and it haunts me.
+
+**PRINCESS MONSTER TRUCK:** Fair enough.
 
 ---
 
 ## TESTIMONY OF PRINCESS MONSTER TRUCK
 
-**CHAIRMAN OLD WASHING MACHINE:** Ms. Monster Truck. The floor is yours.
-
-**PRINCESS MONSTER TRUCK:** Are we done with the polite part? Good.
+**PRINCESS MONSTER TRUCK:** Are we done with the polite part?
 
 *[She opened the folder.]*
 
-I've been in hospitality for twelve years. I know food. I know how to run a line at full capacity on a Saturday night when the dishwasher quits and the health inspector walks in at seven pm. My sister and I have been planning a food truck for three years. Po-boys and smoked boudin. Something real. Something *ours*.
+I've been in hospitality for twelve years. I know food. I know how to hold a line together under conditions designed, or might as well be designed, to make things fall apart.
+
+My sister and I have been planning a food truck for three years. Po-boys and smoked boudin. Something real. Something ours.
 
 We saved seventeen thousand dollars. We found a truck. We started pulling permits.
 
-Louisiana requires a state health certificate, a city business license, a fire inspection certification, and proof of a licensed commissary kitchen — which can't be substituted with your own kitchen regardless of its equipment, because the certification costs four thousand dollars and takes four to seven months. Then a Department of Revenue seller's permit, a sales tax registration, and in New Orleans, a separate French Quarter vendor permit for any street within two blocks that costs twelve hundred dollars and has a waiting list that has not moved since 2022.
+We found a truck. We started pulling permits.
 
-*[She turned a page.]*
+*[She turned a page. She didn't need to consult it. The turning was for the record.]*
 
-Meanwhile, Governor Landry signs the "No Pay, No Play" insurance reform. The $100,000 auto threshold. The Housley Presumption, gone. You tell us it's to prevent frivolous lawsuits. My premiums went up fifteen percent the following quarter. I am currently deciding between fixing my alternator and buying insulin, which is not a choice that should exist in a country with this much money in it, and yet here we are, and there it is.
+Louisiana requires a state health certificate, a city business license, a fire inspection certification, and proof of a licensed commissary kitchen. You cannot substitute your own kitchen — even commercial-grade — because the certification costs four thousand dollars and takes four to seven months. Then a Department of Revenue seller's permit, sales tax registration, and in New Orleans a separate French Quarter vendor permit for any street within two blocks that costs twelve hundred dollars and has a waiting list that hasn't moved since 2022.
 
-You want to talk about why turnout in Louisiana was twenty-three percent? That is why. Because the people who were supposed to represent us are busy being the HR department for a company that's going bankrupt, and some of us have started to notice.
+Meanwhile: Governor Landry signs "No Pay, No Play." The $100,000 auto threshold. The Housley Presumption, gone. You tell us it stops frivolous lawsuits. My premiums went up fifteen percent the following quarter. I am currently making decisions about my alternator and my insulin that I should not, in a country with this much money in it, be making.
+
+Twenty-three percent turnout in the last Louisiana general election. The people who were supposed to be in our corner have spent so long in rooms like this one that they've stopped being able to tell the difference between representing us and performing representing us.
 
 *[She closed the folder.]*
 
-That is what I wanted to say about the right to start a business.
+That's what I wanted to say about the right to start a business.
 
 ---
 
-## THE SYNTHESIS[^synthesis]
+## THE SYNTHESIS******
 
-*[A silence settled over the room of the kind that forms when truth has been said in a place that is not accustomed to it. The fluorescent lights hummed. They had hummed through hearings on Vietnam, Watergate, the deficit, healthcare, the financial collapse, and a great many working groups. They intended to keep humming. They had no opinions. This was, in its way, a comfort, and also not a comfort at all.]*
+******This section is titled "The Synthesis" because the transcript format requires section headers, and "The Part Where Everyone Understands The Problem And Then The Problem Continues" was considered too accurate.
 
-**SENATOR SHMURPLE-BERRY YOGURT:** The commissary kitchen requirement is — yes, that's something we've been examining—
+*[A silence formed of the specific kind that accumulates when something true has been said in a space architecturally designed for the management of truth rather than its direct expression. The fluorescent lights hummed. They had hummed through Vietnam and Watergate and the deficit and the collapse and a number of working groups whose white papers were filed in rooms that no longer existed. They had no opinions. This was, in equal measure, a comfort and not a comfort at all.]*
+
+**SENATOR SHMURPLE-BERRY YOGURT:** The commissary kitchen requirement is — yes, that's something we've been actively—
 
 **PRINCESS MONSTER TRUCK:** With what outcome?
 
-**SENATOR SHMURPLE-BERRY YOGURT:** —as part of a broader working group—
+**SENATOR SHMURPLE-BERRY YOGURT:** —examining, as part of a broader working group—
 
 **PRINCESS MONSTER TRUCK:** What working group?
 
-**SENATOR SHMURPLE-BERRY YOGURT:** —that is currently in the process of convening—
+**SENATOR SHMURPLE-BERRY YOGURT:** —that is in the process of—
 
 **PRINCESS MONSTER TRUCK:** I drove seventeen hours.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** *(quietly)* Yes. You've mentioned.
 
-**PRINCESS MONSTER TRUCK:** I'll keep mentioning it.
+**PRINCESS MONSTER TRUCK:** I'll keep mentioning it until something moves.
 
-*[The Senator looked at the folder. He had developed, over his long time in politics, a very precise internal instrument for detecting when a moment required the appearance of being moved by it. He had also a second, smaller, considerably less-exercised instrument that occasionally registered when he was actually moved by something. The second instrument had not had much practice. The commissary kitchen requirement was doing something to the second instrument. He was not entirely sure how he felt about this.]*
+*[The Senator looked at the folder. His second instrument — the tuning fork, the underexercised one — registered something it couldn't immediately classify. Not guilt. Something prior to guilt. Something that would become guilt if he let it develop.]*
 
-**SENATOR SHMURPLE-BERRY YOGURT:** *(to aide, very quietly)* Find out which subcommittee handles commissary kitchen certification requirements.
+*[He opened his mouth. What came out was:]*
 
-*[The aide looked this up. It was four subcommittees. The Senator chose not to mention this.]*
+**SENATOR SHMURPLE-BERRY YOGURT:** The working families of this country deserve a regulatory framework that—
 
-**CHAIRMAN OLD WASHING MACHINE:** Here is what I keep arriving at. You both came here. You know how this system works — or doesn't — better than most of the people in this building who are paid to know it. You're asking the machinery of the state to get out of the way of the thing you're willing to bleed for. That should be — it *should be* — the most obvious, least partisan, most achievable thing we could agree on.
+*[He stopped.]*
 
-*[He looked at the Senator.]*
+*[A fraction of a second. The kind of pause that in a different story would be the moment everything changed. He looked, briefly, like a man who had just heard himself — not the words, which were the right words, which were exactly the words the moment required — but the mechanism. The fluency. The phrase arriving fully formed without any intermediate step that could be called deciding.]*
 
-And instead it's going to go to a working group, and then a subcommittee, and then a recess, and then an election cycle, and somewhere in Louisiana a man who owns a yacht called *Tax Shelter* is going to file his quarterly returns in a condition of profound personal comfort, and he will not think about the food truck once.
+*[Nobody noticed. Or almost nobody.]*
+
+*[Princess Monster Truck noticed. She didn't say anything. She just watched.]*
+
+*[Then the moment passed, back into the general current of things, and he was a five-term Senator again, and the room was a hearing room, and the lights hummed on.]*
+
+**CHAIRMAN NEW WASHING MACHINE:** Here is what I keep arriving at.
+
+*[He set down his pen.]*
+
+You both came here. You know how this system works — or doesn't — better than most people in this building who are paid to know it. You're not asking for charity. You're asking the state to move its foot off the hose.
+
+*[He looked at the Senator. The speech that followed was one he had given, in various forms, for twelve years. It was true. It had always been true. It arrived, as it always did, exactly as intended — the cadences landing where cadences land when a man has found the version of himself that works and has been working it ever since. He felt, distantly, the faint hum of the machinery. His own machinery. He kept going, because stopping would require explaining why he stopped, and the explanation did not exist in any language the room spoke.]*
+
+Instead it's going to go to a working group. Then a subcommittee. Then a recess. Then an election cycle. Then a new working group that won't have read the notes from the old one because those notes are in a format the current document system no longer supports. And somewhere in Louisiana a man who owns a yacht called *Tax Shelter* will file his quarterly returns in a condition of profound personal comfort, and he will not think about the food truck once.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** That is an uncharitable characterization of the legislative process.
 
@@ -291,17 +211,23 @@ And instead it's going to go to a working group, and then a subcommittee, and th
 
 *[This was, in its way, an answer.]*
 
-**MR. ZUCCHINI EL GOURDO:** *(quietly, to Princess Monster Truck)* We don't want a reboot, you know. We just want a door that isn't locked from the inside.
+---
 
-**PRINCESS MONSTER TRUCK:** *(equally quietly)* And fix my damn insurance before I lose my mind.
+*[Zucchini El Gourdo looked at Princess Monster Truck. She looked back. Different cities, different histories, different routes to this room. Neither had voted in the last midterm.]*
 
-**MR. ZUCCHINI EL GOURDO:** Also that.
+**MR. ZUCCHINI EL GOURDO:** *(quietly)* I went into nonprofits to feel like I wasn't in the casino. But I think there's a version of that which is genuine and a version that's just — a better story about myself. I'm still figuring out which one it is.
 
-**PRINCESS MONSTER TRUCK:** Is the Estonia thing real?
+**PRINCESS MONSTER TRUCK:** At least you know there are two versions.
 
-**MR. ZUCCHINI EL GOURDO:** It's Wikipedia. So. Possibly.
+*[A beat.]*
 
-**PRINCESS MONSTER TRUCK:** I'll take possibly.
+**MR. ZUCCHINI EL GOURDO:** Is the Estonia thing real?
+
+**PRINCESS MONSTER TRUCK:** It's Wikipedia.
+
+**MR. ZUCCHINI EL GOURDO:** So possibly.
+
+**PRINCESS MONSTER TRUCK:** Possibly is enough.
 
 ---
 
@@ -315,7 +241,7 @@ And instead it's going to go to a working group, and then a subcommittee, and th
 
 ### UNDERNEATH MANHATTAN, NY
 
-*On the train back to Brooklyn — delayed again, indefinitely, for reasons the MTA described as "signal issues" and everyone understood to mean something much older and less fixable — Zucchini El Gourdo wrote a letter. Not a policy brief. Not a Substack post. A letter, to someone who knew a city councilperson who had been, apparently, asking why the unaffiliated numbers kept climbing and nobody showed up. He was not, he thought, hopeful exactly. He was something in the neighborhood of hopeful. Close enough to feel the weather.*
+*On the train back to Brooklyn — delayed, indefinitely, for reasons the MTA described as "signal issues" and everyone understood as something much older that nobody had fixed — Zucchini El Gourdo opened his laptop. Not a policy brief. Not the Substack post he'd been unable to finish because he couldn't find an ending that felt honest rather than performed. A letter. To someone who knew a city councilperson who had been asking, apparently, why the unaffiliated numbers kept climbing and nobody showed up — asking as if she actually wanted to know.*
 
 ---
 
@@ -327,60 +253,58 @@ And instead it's going to go to a working group, and then a subcommittee, and th
 
 *"After all that?"*
 
-*"Especially after all that. But I need you to look into what they actually enforce on commissary certification versus what's technically required. Because I have a feeling those are two very different numbers."*
+*"Especially after all that. Pull the actual enforcement records on commissary certification — not the statute, the enforcement. I want to know what's real."*
 
-*Her sister laughed. It was the laugh of someone who had known this voice for thirty years and recognized what it sounded like when it got like this: past angry, into something harder and more durable than angry, something that had driven seventeen hours and brought the folder and was going to keep mentioning it until something moved.*
+*"You think there's a gap?"*
 
-*The crack in the windshield caught the last of the sunset at an angle that turned it briefly into something that looked almost like a map.*
+*"There's always a gap. It's where we live."*
 
-*Maps are just descriptions of where you are.*
+*The crack in the windshield caught the last of the sunset and turned it briefly into something that looked almost like a map.*
 
-*What matters is where you're going.*
+*She drove south, into the dark.*
 
----
-
-*The food truck opened in the spring. It was called THE SEVENTEENTH HOUR. The boudin was excellent. A man from a food safety publication ate there on the third week and wrote a piece about how commissary kitchen certification requirements in Louisiana were being enforced inconsistently across parishes in ways that suggested the regulation itself was due for review. Two thousand people read it. One was on a working group.*
+*She was, as far as she could tell, the one driving.*
 
 ---
 
-*This is not how change happens.*
+*The food truck opened in the spring. It was called THE ELEVEN HOUR. The boudin was excellent.*
 
-*Except that sometimes, rarely, against considerable odds and the general institutional preference for things remaining as they are, it is.*
+*It was not the only one.*
 
-*Somewhere in Delaware, Senator Shmurple-Berry Yogurt's second instrument — the small one, the underexercised one — registered something it couldn't quite name. He didn't do anything about it. Not immediately. But the following Tuesday he ate a po-boy from a food truck parked outside the Capitol in contravention of approximately four separate permitting regulations. It was very good. He did not mention the permits.*
+*Across the country, in the gaps between statutes and enforcement, between the official record and the footnotes, between the theater and the thing the theater was supposed to represent, people were doing the same quiet arithmetic: the cost of asking permission versus the cost of not asking, the distance between the working group and the actual work, the specific weight of a system that processes every genuine thing into the appearance of a genuine thing and files the paperwork correctly and schedules the follow-up meeting and means, on balance, for none of this to change.*
 
-*This was not progress.*
+*And then they were opening food trucks. And mutual aid networks. And neighborhood land trusts. And small schools in living rooms. And local currencies backed by nothing except the agreement of people who had decided to agree. They were building, in the negative space of the official system, the faint outline of a different one — not loudly, not with manifestos, not in ways that would be covered or co-opted or reframed as extremism — just practically, the way people build things when they have stopped waiting for permission and started asking a different question entirely.*
 
-*It was also not nothing.*
+*The question was not: how do we fix this?*
+
+*The question was: what do we do instead?*
+
+*Nobody called it a revolution. Revolutions have press coverage and faces and the kind of drama that gets someone's name on a stamp. This didn't have any of that. It had boudin and a waiting list that hadn't moved since 2022 and eleven thousand dollars saved at eighty dollars a month and a crack in a windshield that caught the light in a way that looked, if you were driving south into the dark and feeling something that wasn't quite hope but was in the neighborhood, almost like a map.*
+
+---
+
+*The working group met for the first time on a Thursday in April. There were eleven members. Three had previously worked for the Louisiana Restaurant Association. One had written the original commissary certification statute in 2004. The agenda was thorough. The minutes would be available upon request.*
+
+*Nobody requested them.*
+
+---
 
 *The lights hummed on.*
 
-*They always do.*
+*In the theater, and elsewhere.*
+
+*Mostly elsewhere.*
 
 ---
 
-# *[END OF TRANSCRIPT]*
+*[END OF TRANSCRIPT]*
 
-*[Document filed with the Office of the Clerk, Committee on the Socio-Political Fabric, 119th Congress]*
+*[Filed with the Office of the Clerk, Committee on the Socio-Political Fabric, 119th Congress]*
 
-*[Estimated readership: 400]*
+*[White paper status: pending]*
 
-*[Estimated readership past page four: 7]*
+*[Working group status: convening]*
 
 *[The boudin: excellent]*
 
-## Footnotes
-
-[^posterity]: Posterity has not yet confirmed whether it wanted this.
-
-[^buildings]: Buildings, if they survive long enough, develop a philosophical detachment about their inhabitants. The Rayburn Building had seen enough to know that the people who came through its doors were, on balance, trying their best, and that this was simultaneously more and less reassuring than it sounded.
-
-[^investments]: He had found, over a long career, that the key to not thinking about certain things was to simply not think about them. He had refined this into something approaching an art form, or possibly a medical condition. He had not looked into which.
-
-[^state_farm]: A cracked windshield is, in point of fact, a structural integrity issue and a safety classification under federal highway standards. State Farm was aware of this. They were counting on Princess Monster Truck not having a lawyer. She had a cousin who had watched a lot of *Better Call Saul.* This was, everyone agreed, not nothing.
-
-[^subscriptions]: This was, in fact, an accurate description of several subscription services as well, but that is a matter for a different committee.
-
-[^synthesis]: This section is titled "The Synthesis" because congressional transcripts require section headers and "The Part Where Everyone Understands The Problem And Then Does Not Fix It" was considered too long.
-
-[^meeting_adjourned]: The Committee on the Socio-Political Fabric would reconvene at a date to be determined, pending scheduling, recess, and the outcome of an election that both Zucchini El Gourdo and Princess Monster Truck had, until very recently, every intention of sitting out. The white paper would be filed. The working group would convene, eventually. These things would happen in the order that things happen when no one is in a hurry, which is to say: slowly, and then not at all, and then, occasionally, all at once, in ways that surprised everyone and shouldn't have.
+*[The list the Senator had: somewhere, in a drawer, in a handwriting he no longer entirely recognized as his own]*

@@ -1,0 +1,91 @@
+---
+title: Good Taste and Experience
+date: 2026-03-20
+categories:
+  - LLMs and Early Careers
+---
+
+# What's the most valuable thing in the world right now?[^welcome]
+
+Not technical skill. Machines have that. 
+
+Not information — everyone has access to more of it than they can process. 
+
+The answer is judgment. 
+
+Specifically, two kinds of judgment that work in tension with each other: Experience and Taste.
+
+Why? LLMs can implement almost anything. They can write code, draft strategy documents, build financial models, design systems. The quality varies, but the range of what's possible is enormous and getting wider every quarter. So the bottleneck has moved. It's no longer "can we build this?" It's "should we build this, and is what we built good enough?" Those are judgment calls, and no model makes them for you.
+
+If you're early in your career, this means the people who will matter most in any organization, at any level, are the ones who can answer those two questions well.
+
+## Knowing When It's Good Enough
+
+The critical moment when you're working with an LLM is deceptively simple. You look at what it produced and you make a call: "Not good enough, try again" or "Good enough, move on." That's it. Everything can always be improved. The question experience answers is: *given the time and resources we actually have, is this sufficient?*[^what_does_experience_mean_with_llms]
+
+Experience, in this context, means something specific. You need enough accumulated knowledge to define concrete success criteria — even when your tools are limited and your company has cut corners on model access. You need to know what the work *should* look like before anyone starts doing it.
+
+> But Matt, I'm early in my career. I haven't run enough projects to know what "good enough" looks like.
+
+That's a legitimate concern, and five years ago it would have been harder to answer. But the cost of accumulating reps has dropped to nearly zero. You can open any LLM right now and start building something. It won't turn out great — that's the point. You'll have a concrete artifact to examine, a set of decisions you made along the way, and a clear record of where those decisions fell short. That's experience. It compounds.
+
+The constraint most people face early on — *how do I make something that creates a tangible impact when nobody's giving me real projects?* — turns out to be the ideal training ground. Experience doesn't come primarily from the scale of the work. It comes from the frequency of iteration. A person who builds ten small things and reflects on each one will develop sharper judgment than someone who spent six months and only made it half-way through a single deliverable and never looked back. (I have done this. Many times. This is the fifth time I've tried to start a blog).
+
+Make the reflection concrete.[^doing_bad] Before you start a deliverable, write down what "done" looks like. As you work, note every point where the criteria shifted — every time you were told to do one thing but the real need turned out to be something else. Then evaluate your output against both your original standards and the twists along the way. You are your own consultant. Nobody else will do this synthesis for you, and the accumulated record of your own judgment calls is more valuable than any course or certification.
+
+So invent a business. Pick an industry relevant to your work, create a fictional company, and put it through its paces. Design a [full web application](https://stitch.withgoogle.com/) for it. Have your LLM build out a [financial and operations model](https://arxiv.org/html/2601.11650v1). Then look hard at what came out, identify what went wrong, and do it again. The fictional stakes are low. The judgment you're building is real.
+
+# Taste
+## Knowing What "Good" Actually Looks Like
+
+Experience tells you what's achievable given constraints. Taste tells you whether the achievable thing is worth achieving.
+
+[Kira Klass](https://kiraklaas.substack.com/p/what-taste-means-at-work) defined good taste in business as "*the ability to consistently make decisions that demonstrate respect for your audience, show deep empathy for their needs, and deliver aesthetically-pleasing experiences that drive positive business outcomes.*" 
+
+The negative test is even more useful: you know you have Taste when bad work offends you. Not because you're being precious about it, but because you can see the gap between what something is and what it should be, and that gap bothers you.
+
+> If Experience is the pragmatic half of judgment, Taste is the aspirational half. 
+
+Why does Taste decay? Because most professionals stop anchoring what "good" looks like. They spend years processing mediocre deliverables, gradually accepting lower standards as normal. The resume gets longer. The frame of reference gets blurrier. They still *say* they want great work, but they've lost the ability to recognize it when it shows up — or, more importantly, to recognize when it hasn't.
+
+Kira defined the other side too: bad taste is "*characterized by decisions that prioritize short-term gains over user experience, disregard audience needs and preferences, or implement aesthetics that clash with functionality.*" 
+
+That description covers a lot of what passes for professional output in most organizations. People have been tolerating it for so long that they've forgotten there's an alternative.
+
+The counter is active study. Find work you admire and ask yourself *why* it's good — what decisions the creator made, and what they chose *not* to do. The restraint matters as much as the ambition.
+
+Then produce things and put your name on them.[^salt_hank] A blog, a side analysis, a portfolio project. These aren't vanity exercises. They're how you develop standards, because you discover what you're willing to sign. The bar isn't perfection. The bar is "I'm not embarrassed by this." If you can't work at a pharmaceutical company, you can still write about [financial ratios for pharmaceutical companies](https://medium.com/@seankoth/why-i-built-my-own-biotech-screener-and-how-it-works-bf7691ebf43f) if that's what interests you. You can analyze [GLP-1 distribution strategy](https://atelfo.github.io/2025/12/07/going-direct.html). Something is better than nothing, and a few good things are better than one good thing.[^luck_profile]
+
+# The Tension
+
+Neither Experience nor Taste is sufficient on its own. They need each other, otherwise the resulting failures are distinct (and memorable).[^failure_modes]
+
+When you first start, you're going to have a lot of self-criticism around Taste and a lot of anxiety around Experience. It's going to be an uncomfortable first set of steps. That's okay.[^show_your_work]
+
+The people who hold both together will run the next generation of organizations — not because the tools chose them, but because the tools made everyone else interchangeable.
+
+---
+
+- [^welcome]: Welcome! This is an essay series about how LLMs shifting the mindset around Early Careers, AKA the people who face the greatest amount of institutional risk with the least amount of institutional protection. 
+
+- [^doing_bad]: The adage, "[a]nything worth doing is worth doing badly" [is much abused](https://www.chesterton.org/a-thing-worth-doing/). Chesterton was a "[distributist](https://en.wikipedia.org/wiki/Distributism)" who believed that amateurs, [as per the original definition](https://www.etymonline.com/word/amateur), were *the best possible* people to undertake an important task.
+
+- [^what_does_experience_mean_with_llms]: That's a resource-allocation judgment, not a technical one. And it gets more demanding as the way we work with these tools matures. I think of it as three levels.
+
+    **The Babysitter.** You review every output. You catch what the LLM missed. You say, "No, try it this way instead" and provide a specific suggestion. This works, but it's labor-intensive. You're still doing most of the thinking — the LLM is essentially a faster pair of hands.
+
+    **The Manager.** You define acceptance criteria before the work starts and put an LLM to work on a certain project-milestone to keep things manageable. You evaluate the results and pick the best one. This is a step up, because you're not babysitting- you're evaluating outcomes. The reason why it's not the "best" is because this cycle needs to be done one "milestone" at at time. 
+
+    **The Orchestrator.** An LLM project manager spawns other LLM workers, assigns each one a specific task with clear instructions, lets them work, then tests their outputs against the acceptance criteria you defined. If a solution passes, it generates an after-action report and saves the changes. If it fails, it documents what was tried and hands the problem off to the next instance. Your job at this level is to define success so precisely that the system can evaluate itself without your involvement.
+
+    Notice what happens as you move up the ladder: the demands on your experience *increase*, not decrease. At Level 3, you need to articulate your standards clearly enough that an automated system can enforce them in your absence. Most professionals have never been forced to be explicit about what "good enough" means. They've relied on gut feel and real-time correction. That can't scale.
+
+- [^salt_hank]: A [chef-influence I like, "Salt Hank"](https://salthanks.com/), started off making content purely about sandwiches. That's it. Just sandwiches. He opened his own restaurant in 2025.
+
+- [^luck_profile]: The goal isn't to change the world. The goal is to [raise your profile enough](https://usefulfictions.substack.com/p/how-to-increase-your-surface-area) that someone eventually says, "I keep seeing this person's work, and it's sharp. Let me keep them in mind." That's all. Have strong opinions about what's good enough for you to put your name on. But don't let the pursuit of perfection stop you from ever starting.
+
+- [^show_your_work]: There are entire networks where you can show your side-projects and get help, suggestions, or feedback. YCombinator, the startup incubator, has a forum dedicated to people who want to ["Show" what they've made](https://news.ycombinator.com/show).
+
+- [^failure_modes]: Experience without Taste produces the veteran manager who ships on time and on budget, and produces nothing anyone wants. Competent execution of the wrong thing, or the mediocre thing, or the thing that technically meets the spec but makes users feel like an afterthought. These people exist in every organization. They're reliable. They're also why so many products feel soulless.
+
+    Taste without Experience produces the junior person with strong opinions and no operational understanding of what it costs to realize them. They can tell you what's wrong with everything. They can't tell you what it would take to fix it, or whether fixing it is worth the tradeoff. Criticism without capability is just noise.

@@ -1,0 +1,80 @@
+---
+title: Stability Is (Was Always) an Illusion
+date: 2026-03-20
+categories:
+  - LLMs and Early Careers
+---
+
+## *The final essay in the series*
+
+# A Long Time Ago...
+
+In 1812, the London and Westminster Gas Light and Coke Company began laying pipe beneath the streets of London. Within a decade, gas lamps had replaced oil lamps across most of the city's major thoroughfares. The lamplighters — organized, unionized, well-compensated, socially respected — watched it happen in real time. They petitioned Parliament. They sabotaged gas mains. They argued, correctly, that gas light was dangerous and unreliable and that their expertise in maintaining the city's lighting infrastructure had been built over generations and could not simply be discarded.
+
+They were right about all of it. And none of it mattered.
+
+[Carl Benedikt Frey's *The Technology Trap*](https://press.princeton.edu/books/hardcover/9780691172798/the-technology-trap) tells this story alongside dozens of others, and what makes the book so useful isn't the parade of obsolescence — it's his careful documentation of what the affected workers actually believed while it was happening. They believed their skills were permanent. They believed the institutions that employed them would protect them. They believed, above all, that stability was a feature of the world rather than a temporary condition maintained by the absence of a better alternative.
+
+Every generation that has lived through a major technological displacement believed theirs was different. The lamplighters believed gas was a fad. The handloom weavers believed Parliament would intervene. The switchboard operators believed automation couldn't handle the complexity of human communication. Each group had reasonable arguments. Each group was operating with the best information available. And each group was wrong — not because they were stupid, but because they mistook the current arrangement for a permanent one.
+
+A grim way to open a final essay, but stay with me.
+
+---
+
+The part of Frey's research that sticks with me is the effect on "identity". When the handloom weavers lost their trade, they didn't just lose income. They lost the ability to answer the question "what do you do?" in a way that made sense to them and to the people around them. Their social standing, their sense of competence, their daily routines, their relationships with other weavers — all of it was organized around a skill that the market no longer valued. The economic recovery, when it eventually came, didn't restore any of that. It replaced it with something different, for different people, in different places.
+
+This is the unspoken conversation when you hear the word "disruption". The policy conversation is almost entirely about wages, retraining programs, unemployment insurance — the mechanics of economic adjustment. Those things matter. But they don't address the thing that actually makes displacement so destructive, which is that people build their identities around their work in ways that are deeper than a paycheck.
+
+I've fallen into this trap myself. There have been stretches where my sense of who I was had become so tangled up with my productivity that unemployment feels like a personal moral failing. You start measuring yourself by output. You start treating rest as inefficiency. You start interpreting any period of uncertainty as evidence that you've been faking it the whole time. It gets dark. The cruelty is that the people most susceptible to this — the ones who care the most about good work — are who it hits hardest.
+
+I bring this up because the current wave of layoffs and restructuring is disproportionately targeting junior and mid-level positions. This makes a certain kind of organizational sense: companies are protecting employees with mortgages, families, deeper institutional knowledge. 
+
+> The effect is that the people with the least institutional protection are absorbing the most institutional risk. 
+
+If you're 24 and you just got laid off from your first real job, the economic damage is probably manageable. The identity damage is something else entirely. The social contract — go to college, work hard, get a good job, build from there — just broke its promise to you, and no amount of LinkedIn advice about "pivoting" or "upskilling" is going to make that feel less like a betrayal.
+
+So if you're in that position, or if you're watching friends go through it, the first thing I want to say is: the grief is real, it's legitimate, and it isn't a sign of weakness. Guard yourself as much as you can against the belief that your productivity is your self-worth. Be a good friend. Surround yourself with good friends. Keep pushing even when it feels pointless, because it probably isn't, even though it will feel that way for a while.
+
+---
+
+> Okay, Matt, that's pretty dark. Any silver linings?
+
+I'm not going to give you a speech about how you're actually the protagonist all along. That would be insulting, especially to a generation that held up its end of the social contract and is now watching the other party default. Likewise, Frey's reporting indicates that the *economic effect* of displacement for members of the Lamplighters' Guild was felt for *three generations afterwards.*
+
+My family imparted two pieces of wisdom that I found deeply annoying at the time and have since come to respect. The first is the worst curse that any human can intone on another: "May you live in interesting times." The second is career advice: "Great crisis necessitates great opportunity." These two ideas are in tension with each other, it's about how we find the balance between them. For me, my first two jobs were in Disaster Risk Reduction and Emergency Management. When the world is structured around interesting times, you might as well get professionally comfortable with them.
+
+This is my observation about the position we're all in.
+
+We have, right now, the most freedom of movement of almost anyone in the economy. I say that seriously. If we're students or recent graduates — unmarried, no kids, no mortgage — the number of choices available to us is relatively extraordinary. We can move across the country for a job. We can start a company out of a friend's apartment. We can take a wild bet on a sector that didn't exist two years ago. The 45-year-old with a family and a mortgage in a declining industry would trade a great deal to be in our position, even if our position feels precarious and frightening.
+
+That's the freedom-of-movement argument, and it's real, but it's not the most interesting one.
+
+The more interesting argument is about information asymmetry, and specifically about how much of it just collapsed.
+
+For most of modern professional life, there has been an enormous gap between what credentialed experts know and what everyone else can verify. Your financial advisor tells you a particular allocation strategy is optimal, and unless you have a finance degree yourself, your options are to trust them or to spend forty hours reading textbooks. Your lawyer tells you a contract clause is standard, and you either take their word for it or pay a second lawyer for a second opinion. Your consultant tells you their methodology is proprietary and their recommendations are data-driven, and you nod along because what else are you going to do?
+
+LLMs did not close this gap entirely. A chatbot is not a substitute for genuine expertise, and anyone who tells you otherwise is selling something. But LLMs did something almost as consequential: they gave non-experts the ability to ask informed questions. You can take your financial advisor's recommendation, feed it to an LLM, and get back a list of specific questions that a competent person would ask. You can paste in a contract and get a plain-language explanation of what each clause actually commits you to. You can't replace the expert, but you can negotiate with them on far more equal footing than was possible even three years ago.
+
+A lot of people have been coasting on the information asymmetry. Not all of them — plenty of professionals are genuinely excellent at what they do — but enough that this shift is going to be visible. When anyone can cross-verify claims at scale, the professionals who were selling confidence rather than competence are going to have a very bad decade. And when large, stable, absurdly high-margin companies start getting disrupted — and some already are (RIP Chegg) — the openings that appear will favor people who can move quickly and think clearly over people who have seniority and inertia.
+
+You can do everything. You can do nothing. You can reinvent yourself with skills and capabilities that previous generations could only imagine. The one thing you cannot do is wait for someone else to tell you the best path. By the time the consensus forms and the dust settles, the opportunity has already been seized by someone who moved while it was still unclear.
+
+---
+
+> Okay, but easier said than done. You're sitting here with your fancy title and your resume and you can spew whatever you want because you don't have skin in the game the way we do.
+
+True. And I'll own that. I have my privileges and my support structure and a long list of people who were generous with me when they didn't need to be. I have been, on multiple occasions, lucky.
+
+And an honest personal observation: the people I know who've navigated periods of upheaval successfully didn't do it because they had a plan. They did it because they were willing to act before they had a complete picture. They made the best decisions they could under genuine uncertainty, they adjusted when those decisions turned out to be partially wrong, and they kept moving when the temptation was to freeze and wait for clarity.
+
+My grandmother is a successful entrepreneur, founder, and has exited her own company. As much as it drives me absolutely crazy, she has that killer instinct where she can smell opportunity and execute on it before she has a coherent picture of the end-game.
+
+That doesn't require genius, it requires is a tolerance for discomfort — the willingness to commit to a direction when you can only see about thirty feet ahead, knowing you'll have to correct course repeatedly and that it *will* be expensive.
+
+You have even footing with almost everyone. The tools are new enough that nobody has twenty years of experience with them. The people pretending they have all the answers are improvising just as fast as you are. And you have the advantage of not needing to protect a position you've already built — you can go wherever the opening is, without having to justify abandoning something you spent a decade constructing.
+
+> "May you live in interesting times." 
+
+You do. I do. That's the hand we're dealt. The question of what we decide to create in the middle of them is an open one. Nobody is going to hand that to us. But nobody is going to hand it to anybody else, either. The ground is moving underneath all of us, equally. So we do what humanity has done through disruptions and crises since we first walked this spinning globe.
+
+Keep pushing.
