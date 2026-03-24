@@ -7,3 +7,4 @@ _site/
 _output
 .github
 .deps
+DS_Store
