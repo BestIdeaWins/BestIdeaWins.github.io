@@ -1,0 +1,85 @@
+---
+title: The Self-Fulfilling Prophecy
+date: 2026-03-20
+categories:
+  - LLMs and Early Careers
+---
+
+# How Organizations Destroy the Leadership Capacity They Claim They Never Had
+
+Peter Drucker spent decades arguing that the purpose of management was to make people's strengths productive. He did not say to inventory weaknesses and design around them. He did not say to sort employees into "thinkers" and "doers" and then optimize the doers out of existence. But that is what a growing number of organizations are doing with large language models, and the consequences will take years to surface and a generation to repair.
+
+## Long Before the Technology...
+
+The pattern is old, and the reasons behind it were never irrational. Long before LLMs, most organizations confined junior staff to process work: formatting slides, pulling data, writing first drafts that a senior person would rewrite from scratch. 
+
+There were legitimate reasons for this. Junior employees make mistakes that cost the organization time, money, and sometimes client relationships. A senior consultant's hour is billed at four or five times what a junior's is, and spending that hour coaching someone through a bad deliverable has a real opportunity cost. Clients expect polished output, not developmental exercises. Managers are evaluated on quarterly results, not on whether their direct reports will be ready for a leadership role in 2031.
+
+So the junior employee learned to execute tasks and received limited exposure to the reasoning behind those tasks. What exposure they did get came through informal, often uncomfortable channels. A senior partner's sense of what the client would accept was rarely written down, because writing it down would have required an honesty that nobody wanted on record. What clients say they value and what they actually buy are frequently at odds: a client might insist they want rigorous analysis and then approve the deck that tells them what they already believe. A client might ask for innovation and then reject anything unfamiliar. 
+
+These contradictions are well understood by anyone who has spent years in a client-facing role, but they are understood as instinct, as feel, as judgment. They are not understood as rules that could be shared during onboarding, partly because they resist codification and partly because documenting them would be embarrassing for everyone involved.
+
+So juniors learned these heuristics the way apprentices did: by proximity. They sat in on meetings and watched which slides the partner skipped. They got the draft back covered in red track-changes with the explanation: "this isn't what they want." Sometimes the lesson arrived as an email at 10 PM that communicated, in its own blunt way, a standard that no onboarding document had ever articulated. 
+
+After two or three years of this, leadership would observe that *select* members of the junior cohort were beginning to show a degree of savviness. They would be promoted to senior associate and become responsible for overseeing the cycle perpetuate itself. Others would leave for greener pastures elsewhere.
+
+This was always a problem. What LLMs have done is force it into view.
+
+## The Assumption Behind the Pitch
+
+The sales pitch for LLM adoption in organizations runs roughly like this: your people spend too much time on low-value tasks. Drafting, summarizing, researching, formatting, synthesizing. Let the model handle these things so your people can focus on higher-order work.
+
+And the pitch is grounded in something real. Organizations are under genuine pressure. Margins are tighter than they were a decade ago in most professional services. Clients increasingly expect faster turnaround at the same or lower cost. The labor market for skilled junior talent is competitive and expensive. If a tool can produce an acceptable first draft in thirty seconds instead of three days, the business case for adopting it is straightforward, and the manager who ignores it will lose ground to the one who doesn't. These are not foolish people making careless decisions. They are responding rationally to the conditions in front of them.
+
+But there are assumptions buried in the pitch that deserve examination. The first is that the "low-value" tasks and the "higher-order" work are cleanly separable, that you can remove one without damaging the other.
+
+The second is subtler and, I think, more consequential. The pitch assumes that someone can tell the model what "good enough" looks like. An LLM produces output in response to a prompt, and the quality of the output depends on the specificity of the instruction. But the standards that governed most knowledge work were never specific. They were aesthetic. A senior partner knew what the client would accept because she had spent fifteen years reading the room, absorbing reactions, learning that this client hated bullet points and that client wouldn't read anything longer than two sentences. 
+
+These preferences were rarely consistent and never fully articulated. To use an LLM effectively as a replacement for junior work, someone would need to translate that accumulated, contradictory, largely unspoken sensibility into written instructions precise enough for a model to follow. The organizations that are adopting these tools fastest are, in most cases, the organizations that have invested the least in codifying what good work actually means for their specific clients. They are handing the model a task and a vague standard, and then asking a junior employee, the person with the least client exposure, to judge whether the output meets it.
+
+Neither assumption holds up well under pressure. Those consequences will surface in time.
+
+## What "Low-Value" Work Actually Teaches
+
+Consider what a junior employee actually learns when they draft a deliverable badly. They learn what questions the senior reviewer asks. They learn which assumptions get challenged and which get waved through. They learn to anticipate objections, to notice when data doesn't support the conclusion they want, to distinguish between an argument that persuades and one that merely sounds persuasive. The deliverable itself may be mediocre. The learning is not. 
+
+When an LLM drafts that deliverable instead, the output may be better on the surface. The sentences will be clean. The structure will be logical. But the junior employee has learned nothing about leadership, because they didn't do any. They're sitting in an awkward middle-seat: responsible for work that was completed by an LLM while likely insulated from the client's feedback through their manager. Drucker understood something about knowledge work that most productivity discourse ignores: the development of capability happens through iterative decisions and feedback about the work itself. 
+
+You do not first acquire judgment and then apply it. You acquire judgment by making hard decisions, badly at first, with feedback from people who are more experienced at it. An organization that removes this developmental work in the name of efficiency has made a choice about its future, whether it realizes it or not. 
+
+It has chosen to stop cultivating its own strategic thinkers.
+
+# The Manufactured Talent Shortage
+
+And here the prophecy fulfills itself. Leadership says: our junior people can't make decisions, so we'll automate the routine tasks and reserve decision-authority for seniors. The junior people, now deprived of the work *and* the decision-making experience around it predictably fail to develop it. A decade or so later, when a senior person leaves or retires, there is nobody ready to step into the role, because nobody was given the opportunity to grow into it. The organization has manufactured the talent shortage it thought it was responding to.
+
+This problem compounds in a specific way I think organizations are unprepared for: when you automate the execution layer, the strategic burden doesn't disappear. It shifts downward. Tasks that used to be routine now require supervision, curation, judgment calls about when the model's output is good enough and when it has gone wrong in ways that require domain knowledge to detect. The people asked to make these calls are the same people who were never experienced in making them. 
+
+> The decision-making will be harder for people with the least experience making hard decisions.
+
+We recognize this as a management problem, even if not a management failure in the conventional sense. The individual decisions are rational. The system they produce is not. The technology does what it does. The question is what management decides to do with it. And the decision most organizations are making, often by default rather than by design, is to treat LLMs as a substitute for human development rather than as a complement to it. The reason we know this? Because [LLM companies are marketing their services in terms of productivity](https://chatgpt.com/business/enterprise/), emphasis mine:
+
+|ChatGPT Enterprise|Gemini Enterprise|
+|---|---|
+|Sales: Personalize outreach to any customer to close **faster**|Sales: |
+|Legal: Draft and review legal content **faster** and with more consistency|Legal: |
+|Finance: **Automate analysis** and reporting with confidence|Finance: |
+|Operations: **Less time on busywork**, more focus on what moves the business|Operations: |
+
+Or as [Claude Enterprise](https://claude.com/pricing/enterprise) says: "Get work done faster".
+
+## The Management Decision
+
+There is a different path, but it requires something most organizations find difficult: accepting a short-term cost for a long-term capability that does not show up on this quarter's scorecard. An "investment" by another name.
+
+A junior analyst who uses an LLM to generate a first draft and then rewrites it with their own judgment, explains their reasoning, and defends their choices in a review meeting is doing more developmental work than one who spent three days assembling the draft from scratch. The tool can compress the mechanical labor. It cannot compress the thinking, and it should not be asked to replace it. The question for management is whether the time saved by the model gets reinvested in developing the employee's judgment or simply gets absorbed into more output at the same level.
+
+This is not an easy question, and it would be dishonest to pretend otherwise. The organization that invests in development while its competitors use the same tools to cut headcount and lower costs will, for a period of years, look less efficient by any standard measure. The returns on building strategic capacity in junior employees are real but slow and hard to quantify. The returns on increased output are immediate and easy to put in a board deck. Every incentive in the system pushes toward the second option.
+
+## Tomorrow's Consequences, Made Today
+
+Given those incentives, most organizations will choose more output. This is a predictable outcome, not a moral failing. 
+
+They will point to short-term productivity gains and declare the investment justified, and by the measures available to them, they will be right. In five to ten years, when they look at their leadership pipeline and find it thin, they will attribute it to the talent market, or the educational system, or generational differences in work ethic. They are unlikely to trace it back to the decision, made today, to remove from junior employees the work that would have prepared them for senior roles: the slow, expensive, difficult process of doing strategic thinking before they were good at it.
+
+The most important decisions are about tomorrow, or more precisely, what we do or fail to do today. The decision to hollow out developmental work is one of those. It is being made now, in thousands of organizations, one "productivity improvement" at a time. And by the time its consequences become visible, the people who made it will have moved on, retired, or been promoted for the short-term efficiency gains they delivered. The people left behind will inherit the vacuum.

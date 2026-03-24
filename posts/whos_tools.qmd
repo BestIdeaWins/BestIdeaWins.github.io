@@ -1,0 +1,82 @@
+---
+title: Who's Problem Is It Anyway?
+date: 2026-03-20
+categories:
+  - LLMs and Early Careers
+---
+
+# So My Organization Bought a New Technology...
+
+Every technology is amoral. A spreadsheet does not care whether it tracks charitable donations or wage theft. A database is indifferent to whether it stores medical records responsibly or sells them to advertisers. The software itself has no opinion.
+
+Palantir makes this point at scale. The same platform that helps militaries coordinate in war-zones also enables predictive policing. The underlying technology is, in both cases, a set of data integration and analysis capabilities. Whether those capabilities are pointed at a legitimate military objective or at generating "pre-crime" suspect lists is a question the software cannot ask. People made those decisions. Palantir built the tool and signed the contracts, and the agencies deploying it chose the targets. 
+
+> The moral weight belongs entirely to the humans on either side of the transaction.
+
+This observation should be obvious, but organizations treat it as if it were controversial, because acknowledging it places the full burden of consequences back on the people making procurement decisions. And those people would rather talk about the technology.
+
+## Who Buys vs. Who Operates
+
+The prevailing theory of enterprise technology adoption goes something like this: we have a problem, so we buy a tool to solve it, and then the problem is solved. The theory is clean and satisfying. It also happens to be wrong in a specific and instructive way. What actually happens is that the tool gets purchased to solve a problem as understood by one group of people, then operated by an entirely different group of people, and the distance between those two groups determines most of what follows.
+
+Take [Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) for example. A senior leader decides the organization needs "better visibility into operations." This is a reasonable desire. It is also, as stated, barely a specification. But a procurement process begins, software is selected, licenses are purchased, and in a few months someone has built a dashboard. The executive now has a screen full of charts that refresh on a schedule. The person who built those charts, and who is now responsible for maintaining the data pipelines behind them, keeping them accurate, responding to requests for new views, and explaining discrepancies when the numbers don't match someone's intuition, is typically three or four levels below the person who asked for "visibility" in the first place. 
+
+> The executive gained a dashboard. The analyst gained a second job.
+
+This pattern recurs with such regularity that it should be treated as a structural feature of how organizations adopt technology, rather than as an unfortunate side effect. CRM systems follow it. Project management platforms follow it. Analytics tools, reporting suites, workflow automation products: in each case, the purchase decision originates with people who want to see, know, or control something, and the operational burden of making the tool function lands on people who had no part in choosing it.
+
+Adoption follows, existing teams are handed new responsibilities, and the search begins for specialists in the new technology.
+
+## The Wrong Questions, Answered Precisely
+
+Now, organizations are built on specialization. An executive's job is to make decisions about where the business is going; an analyst's job is to prepare the information those decisions require. Asking the VP of Sales to maintain her own data pipelines would be as wasteful as asking the analyst to negotiate contracts. Division of labor exists for a reason, and the reason is that people working within their competence produce better results than people working outside it. 
+
+When a manager says "someone has to do the work," she is stating something true about how complex organizations function. Large institutions cannot operate by committee on every operational question, and the fact that a procurement decision was made three levels above the person who uses the tool does not, by itself, make the decision wrong.
+
+Where this reasoning breaks down is not in its logic but in its completeness. It accounts for the division of labor but fails to account for the division of understanding. Drucker put the matter directly: the most serious mistakes are not made as a result of wrong answers, but as a result of asking the wrong questions. 
+
+An executive who asks "How do I get visibility into my operations?" has already made several decisions embedded within the question. He has decided that the problem is informational. He has decided that a visual display will address it. He has decided, implicitly, that the cost of producing and maintaining that display is someone else's concern. None of these decisions have been examined. They are simply absorbed into the word "visibility" and passed along to procurement. The pragmatist is right that specialization requires delegation. But delegation of execution is one thing; delegation of the problem definition itself is another. The first is sound management. The second is an abdication dressed in the language of efficiency.
+
+The tool, of course, answers whatever question it is configured to answer, and it does so with impressive precision. Whether the question was worth asking is a matter the tool cannot adjudicate. A BI dashboard will show you exactly how many units shipped last quarter, broken out by region, salesperson, and product line. It will not tell you whether shipping volume is the metric that matters, or whether the regional breakdown reflects a meaningful business reality or just the org chart. The dashboard is precise. Precision is not the same as relevance.
+
+## The Cost Falls Downward
+
+What makes this a labor problem rather than a technology problem is that the cost of irrelevant precision falls on people who have the least authority to question it. The analyst maintaining the dashboard cannot walk into the VP's office and suggest that the entire reporting structure is answering questions nobody needs answered. Or rather, she can, but the organizational incentives run against it. 
+
+The dashboard exists. It was expensive. People look at it in Monday meetings. Its continued existence is now self-justifying, and the labor required to sustain it is categorized as operational overhead rather than as a decision that could be revisited.
+
+This is where the claim of technology's amorality becomes important. When an organization says "we implemented Power BI" or "we adopted Salesforce" or "we rolled out Jira," the passive construction hides the chain of human choices that determined how the tool would be used and who would bear the cost of using it. 
+
+The technology did not impose any of this. A BI tool could, in principle, be deployed with the analysts choosing the questions and the executives receiving whatever the analysts determined was relevant. That this arrangement strikes most managers as absurd tells you everything about the actual power structure and nothing about the technology.
+
+## Pragmatism as Evasion
+
+There is a version of pragmatism that is genuinely useful. It accepts constraints, works within budgets, ships on deadlines, and does not let the perfect become the enemy of the good. Most functioning organizations run on some measure of it, and a workplace that questioned every assumption before acting would produce nothing at all. The pragmatist who says "we need a reporting tool, let's pick the best one we can afford and get it running" is doing responsible work.
+
+But there is a second version of pragmatism that merely borrows the first version's credibility. This version treats the existing distribution of authority as a fixed constraint and optimizes within it, while declining to examine whether that distribution is producing good results. A pragmatic approach to dashboard adoption asks "How do we get this built on time and under budget?" A less common but more useful question would be "What decision will this dashboard change, and is the cost of operating it proportionate to the value of that changed decision?" 
+
+The first question *sounds* responsible. The second question *is* responsible. They produce very different outcomes. The danger is not pragmatism itself but the ease with which the word can be used to close off inquiry that someone finds inconvenient.
+
+## The Tool Without a Domain
+
+Everything described above assumed tools with at least some natural boundary. A BI platform is a reporting tool. A CRM is a customer records tool. These boundaries, however poorly examined, impose a rough constraint on what the tool can be asked to do. The mandate may be vague, but it has a category.
+
+Large language models have no such boundary. An LLM operates on language itself, which means it can be pointed at virtually any task that involves reading, writing, summarizing, analyzing, or generating text. When a manager tells her team to "start using AI to be more productive," she has issued a mandate with no category at all. She has not identified a problem to be solved or a question to be answered. She has delegated not just the execution, not just the problem definition, but the problem selection. The employee is now responsible for figuring out what the tool should be used for, using it, and producing results that justify the organization's investment, all while continuing to do the job that existed before the mandate arrived.
+
+The management critique applies here with particular force. A dashboard, at minimum, produces a specific wrong answer that can be examined and argued with. If the BI report says revenue is up twelve percent and a regional manager knows the number is misleading, there is at least a concrete artifact to push back against. An LLM produces fluent prose, and fluent prose is, by its nature, difficult to distinguish from considered thought. When a report reads well, the instinct is to accept it. The question of whether someone thought carefully before producing it, or whether they typed a prompt and cleaned up the output, is not visible in the finished product. The tool's very competence at generating language becomes an obstacle to evaluating whether the language contains anything worth saying.
+
+> This makes the abdication of decision-making to LLMs structurally worse than the BI case. 
+
+A productivity mandate issued without specificity was always wasteful; issuing one around a tool that can plausibly fake the appearance of thoughtful work is something different. Organizations that tell their employees to "use AI" without specifying what problem it should address, what quality standard the output must meet, or how the time saved will be reallocated have not made a productivity decision. They have made a discernment decision, and the decision is that discernment is now optional. The tool will produce something. Whether that something required judgment is a question the tool cannot surface, and that the organization, by the structure of its mandate, has chosen not to ask.
+
+The pattern from the BI example holds: the purchase decision flows from the top, the operational burden flows to the bottom, and nobody in between examines whether the right question was asked. But with LLMs, the middle step is harder to see, because the output looks like work regardless of whether work was done.
+
+## What the Tool Cannot Answer
+
+The labor crisis in technology adoption is real, but it was not caused by technology. It was caused by people and organizations that use tool procurement as a substitute for thinking clearly about what they need and who should provide it. 
+
+Every new platform generates new maintenance work, new reporting obligations, new administrative tasks. This work is real, it takes time, and it is almost always assigned to people who are already busy. That it was not part of the original business case is treated as an oversight rather than as a structural failure of the business case itself. LLMs add a new dimension to this failure: they also generate work that looks, from a distance, like it was already being done, making it easy to assume that the tool is saving time when it may simply be changing what the time is spent on.
+
+A tool, being amoral, will do whatever it is told. The question an organization should ask before purchasing one is not, "What can this tool do?", but, "What are we going to ask someone to do with it, and is that a good use of their time?". The first question has a brochure. The second requires judgment. 
+
+Questioning usually stops after reading the brochure.
