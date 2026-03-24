@@ -1,7 +1,11 @@
-# The Right to Start a Business
-### Being the Official Transcript of the Committee on the Socio-Political Fabric, Rayburn House Office Building, Room 2123, February 27, 2026, Faithfully Recorded and Annotated for Posterity*
+---
+title: The Right to Start a Business
+date: 2026-02-27
+---
 
-*Posterity has not yet confirmed whether it wanted this.
+# The Official Transcript of the Committee on the Socio-Political Fabric
+
+> Faithfully Recorded and Annotated for Posterity[^posterity]
 
 ---
 
@@ -9,31 +13,19 @@
 
 There is a particular kind of document that humans produce in response to chaos.
 
-Not a solution — solutions require agreement on the nature of the problem, which has been tabled pending further review. No: the document produced in response to chaos is a *record.* A transcript. A folder of denial letters. A printed Wikipedia page about Estonia.
+Not a solution — solutions require agreement on the nature of the problem, which has been tabled for further review. No: the document produced in response to chaos is a *record*, a document says: *this happened. I was here. I wrote it down.* 
 
-The document says: *this happened. I was here. I wrote it down.*
-
-The document does not say, because it doesn't need to: *and therefore it is not entirely out of my hands.*
-
-This is, on balance, not true. But it is one of the more useful not-true things human beings have ever believed, and the civilization that exists — such as it is, humming under fluorescent lights in large rooms built for important meetings — exists in no small part because of it.**
-
-**Room 2123 smelled of recycled air and the specific ghost of ambition that forms when enough people have sat in the same chairs believing, each in turn, that today was the day something would change. The fluorescent lights hummed at a frequency that could not technically be called despair but was renting a studio apartment in the neighborhood and had started leaving its shoes in the hallway.
+The document does not say, because it doesn't need to: *and therefore it is not entirely out of my hands.[^room]
 
 ---
 
 ## MEMBERS PRESENT
 
-**CHAIRMAN NEW WASHING MACHINE (R-IL):** A Congressman of the libertarian-adjacent persuasion whose fury at the machinery of the state had, over twelve years in office, become so central to his public identity that it was no longer entirely possible — not for his constituents, not for his staff, and on certain late evenings not entirely for him — to locate where the fury ended and the performance of fury began. He shuffled papers the way other men did push-ups: compulsively, and with the suggestion of unresolved aggression.***
+**CHAIRMAN NEW WASHING MACHINE (R-IL):** A Congressman of the libertarian-adjacent persuasion whose fury at the machinery of the state had, over twelve years in office, become so central to his public identity that it was no longer entirely possible — not for his constituents, not for his staff, and on certain late evenings not entirely for him — to locate where the fury ended and the performance of fury began. He shuffled papers the way other men did push-ups: compulsively, and with the suggestion of unresolved aggression.[^fury]
 
-***The fury was real. It had simply also become, over time, a brand, a platform, a voting bloc, a fundraising apparatus. The fury had acquired stakeholders. It would be unfair to say this had changed nothing. It would be equally unfair to say it hadn't.
+**SENATOR SHMURPLE-BERRY YOGURT (D-DE):** A five-term Senator of the variety political scientists describe as a "survivor," which in this context means something subtly different than it does everywhere else.[^survivor] His portfolio was up 22% this quarter, weighted toward domestic surveillance infrastructure and artisanal bunker manufacturers. His tie was the color of bipartisan compromise. He had worn it to four funerals and six fundraising dinners and had somewhere around the third funeral stopped being able to tell the difference.
 
-**SENATOR SHMURPLE-BERRY YOGURT (D-DE):** A five-term Senator of the variety political scientists describe as a "survivor," which in this context means something subtly different than it does everywhere else.**** His portfolio was up 22% this quarter, weighted toward domestic surveillance infrastructure and artisanal bunker manufacturers. His tie was the color of bipartisan compromise. He had worn it to four funerals and six fundraising dinners and had somewhere around the third funeral stopped being able to tell the difference.
-
-He had, buried beneath the metrics, a small and underexercised instrument — not quite conscience, not quite regret, something more like a tuning fork struck a long time ago, still faintly vibrating — that occasionally registered something when the metrics weren't watching. He had learned not to think about it. He was a very accomplished not-thinker-abouter of things. This was, more than any single vote or alliance, the actual engine of his survival.*****
-
-****A "survivor" in the biological sense has endured something that tried to kill them. In the political sense, something that tried to *replace* them. The skills required are different. The thing you have to be willing to lose, in order to keep going, is different. He had never examined this distinction directly. He had, however, lived it for twenty-three years.
-
-*****Whether this constitutes a criticism is left as an exercise for the reader.
+He had, buried beneath the metrics, a small and underexercised instrument — not quite conscience, not quite regret, something more like a tuning fork struck a long time ago, still faintly vibrating — that occasionally registered something when the metrics weren't watching. He had learned not to think about it. He was a very accomplished not-thinker-abouter of things. This was, more than any single vote or alliance, the actual engine of his survival.[^criticism]
 
 ---
 
@@ -43,9 +35,9 @@ He had, buried beneath the metrics, a small and underexercised instrument — no
 
 He also had a faint and stubborn hope. He carried it the way you carry an umbrella in a city where it almost never rains: awkwardly, and unwilling to leave it behind.
 
-**PRINCESS MONSTER TRUCK**, of Baton Rouge, Louisiana: Twelve-year hospitality veteran. Driver of a 2009 Chevy Silverado with a cracked windshield that State Farm had classified as "cosmetic damage" three times, in language so precisely calibrated to the appearance of reasonableness that she had read each letter twice, certain she'd missed where they were wrong.
+**PRINCESS MONSTER TRUCK**, of Baton Rouge, Louisiana: Twelve-year hospitality veteran. Driver of a 2009 Chevy Silverado with a cracked windshield that insurance had classified as "cosmetic damage" three times, in language so precisely calibrated to the appearance of reasonableness that she had read each letter twice, certain she'd missed where they were wrong.
 
-She had a manila folder containing three claim denials, two formal appeals, one letter from a state regulator that deployed four paragraphs to say nothing with complete grammatical correctness, and a printout of Louisiana House Bill 423 annotated in red pen with words that were, legally speaking, opinions and, morally speaking, verdicts.
+She had a manila folder containing three claim denials, two formal appeals, one letter from a state regulator that deployed four paragraphs to say nothing, and a printout of Louisiana House Bill 423 annotated in red pen with words that were, legally speaking, opinions and, morally speaking, verdicts.
 
 She placed the folder on the table and rested both hands flat on top of it.
 
@@ -67,7 +59,7 @@ The American people—
 
 **SENATOR SHMURPLE-BERRY YOGURT:** —are the backbone of this great nation—
 
-**PRINCESS MONSTER TRUCK:** My windshield has a crack in it the size of my forearm. State Farm called it cosmetic.
+**PRINCESS MONSTER TRUCK:** My windshield has a crack in it the size of my forearm and the insurer called it cosmetic.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** —and your voices are essential to the health of our democracy—
 
@@ -77,9 +69,7 @@ The American people—
 
 *[The Senator leaned toward his aide.]*
 
-**SENATOR SHMURPLE-BERRY YOGURT:** *(to aide)* Can we get her a sedative? Or a cabinet position in the Department of Agriculture?
-
-*[The aide typed something. Nothing happened. Such is the nature of the Department of Agriculture.]*
+**SENATOR SHMURPLE-BERRY YOGURT:** *(to aide)* Can we get her a sedative? Or a cabinet position in the Department of Agriculture?[^ag]
 
 **CHAIRMAN OLD WASHING MACHINE:** Let's swear in our witnesses and proceed. We have limited time before the next recess, a subsequent recess, and a vote on something that will be described as historic and will not be.
 
@@ -115,33 +105,23 @@ I tried to start a nonprofit. Urban gardening, community food access. The averag
 
 **CHAIRMAN NEW WASHING MACHINE:** *Eighteen minutes.* *(produces a printed Wikipedia page)* Estonia looked at the administrative state and made a decision. We looked at the administrative state and added a drainage assessment.
 
-**PRINCESS MONSTER TRUCK:** Why is it always Estonia?
-
-**CHAIRMAN NEW WASHING MACHINE:** Because Estonia got it right and it haunts me.
-
-**PRINCESS MONSTER TRUCK:** Fair enough.
-
 ---
 
 ## TESTIMONY OF PRINCESS MONSTER TRUCK
 
 **PRINCESS MONSTER TRUCK:** Are we done with the polite part?
 
-*[She opened the folder.]*
+*[She opens the folder.]*
 
-I've been in hospitality for twelve years. I know food. I know how to hold a line together under conditions designed, or might as well be designed, to make things fall apart.
+I've been in hospitality for twelve years. I know food. I know how to hold a line together when it wants to fall apart.
 
-My sister and I have been planning a food truck for three years. Po-boys and smoked boudin. Something real. Something ours.
-
-We saved seventeen thousand dollars. We found a truck. We started pulling permits.
-
-We found a truck. We started pulling permits.
+My sister and I have been planning a food truck for three years. Po-boys and smoked boudin. Something ours. So we saved seventeen thousand dollars- we found a truck- we started pulling permits.
 
 *[She turned a page. She didn't need to consult it. The turning was for the record.]*
 
 Louisiana requires a state health certificate, a city business license, a fire inspection certification, and proof of a licensed commissary kitchen. You cannot substitute your own kitchen — even commercial-grade — because the certification costs four thousand dollars and takes four to seven months. Then a Department of Revenue seller's permit, sales tax registration, and in New Orleans a separate French Quarter vendor permit for any street within two blocks that costs twelve hundred dollars and has a waiting list that hasn't moved since 2022.
 
-Meanwhile: Governor Landry signs "No Pay, No Play." The $100,000 auto threshold. The Housley Presumption, gone. You tell us it stops frivolous lawsuits. My premiums went up fifteen percent the following quarter. I am currently making decisions about my alternator and my insulin that I should not, in a country with this much money in it, be making.
+Meanwhile: Governor Landry signs "No Pay, No Play." The $100,000 auto threshold. The Housley Presumption, gone. You tell us it stops frivolous lawsuits. My premiums went up fifteen percent the following quarter. I am currently making decisions about my alternator and my insulin that I should not be making.
 
 Twenty-three percent turnout in the last Louisiana general election. The people who were supposed to be in our corner have spent so long in rooms like this one that they've stopped being able to tell the difference between representing us and performing representing us.
 
@@ -151,9 +131,7 @@ That's what I wanted to say about the right to start a business.
 
 ---
 
-## THE SYNTHESIS******
-
-******This section is titled "The Synthesis" because the transcript format requires section headers, and "The Part Where Everyone Understands The Problem And Then The Problem Continues" was considered too accurate.
+## THE SYNTHESIS[^synthesis]
 
 *[A silence formed of the specific kind that accumulates when something true has been said in a space architecturally designed for the management of truth rather than its direct expression. The fluorescent lights hummed. They had hummed through Vietnam and Watergate and the deficit and the collapse and a number of working groups whose white papers were filed in rooms that no longer existed. They had no opinions. This was, in equal measure, a comfort and not a comfort at all.]*
 
@@ -175,59 +153,29 @@ That's what I wanted to say about the right to start a business.
 
 *[The Senator looked at the folder. His second instrument — the tuning fork, the underexercised one — registered something it couldn't immediately classify. Not guilt. Something prior to guilt. Something that would become guilt if he let it develop.]*
 
-*[He opened his mouth. What came out was:]*
-
 **SENATOR SHMURPLE-BERRY YOGURT:** The working families of this country deserve a regulatory framework that—
-
-*[He stopped.]*
 
 *[A fraction of a second. The kind of pause that in a different story would be the moment everything changed. He looked, briefly, like a man who had just heard himself — not the words, which were the right words, which were exactly the words the moment required — but the mechanism. The fluency. The phrase arriving fully formed without any intermediate step that could be called deciding.]*
 
-*[Nobody noticed. Or almost nobody.]*
-
 *[Princess Monster Truck noticed. She didn't say anything. She just watched.]*
 
-*[Then the moment passed, back into the general current of things, and he was a five-term Senator again, and the room was a hearing room, and the lights hummed on.]*
+*[Then the moment passed, back into the general current of things, and he was a five-term Senator again.]*
+
+---
 
 **CHAIRMAN NEW WASHING MACHINE:** Here is what I keep arriving at.
 
 *[He set down his pen.]*
 
-You both came here. You know how this system works — or doesn't — better than most people in this building who are paid to know it. You're not asking for charity. You're asking the state to move its foot off the hose.
+You both came here. You know how this system works — or doesn't — better than most people in this building who are paid to know it. You're asking the state to move its foot off the hose.[^hose]
 
-*[He looked at the Senator. The speech that followed was one he had given, in various forms, for twelve years. It was true. It had always been true. It arrived, as it always did, exactly as intended — the cadences landing where cadences land when a man has found the version of himself that works and has been working it ever since. He felt, distantly, the faint hum of the machinery. His own machinery. He kept going, because stopping would require explaining why he stopped, and the explanation did not exist in any language the room spoke.]*
-
-Instead it's going to go to a working group. Then a subcommittee. Then a recess. Then an election cycle. Then a new working group that won't have read the notes from the old one because those notes are in a format the current document system no longer supports. And somewhere in Louisiana a man who owns a yacht called *Tax Shelter* will file his quarterly returns in a condition of profound personal comfort, and he will not think about the food truck once.
+Instead this issue is going to go to a working group. Then a subcommittee. Then a recess. Then an election cycle. Then a new working group that won't have read the notes from the old one because those notes are in a format the current document system no longer supports. And somewhere in Louisiana a man who owns a yacht called *Tax Shelter* will file his quarterly returns in a condition of profound personal comfort, and he will not think about the food truck once.
 
 **SENATOR SHMURPLE-BERRY YOGURT:** That is an uncharitable characterization of the legislative process.
 
 **CHAIRMAN OLD WASHING MACHINE:** Is it wrong?
 
-*[The lights hummed.]*
-
-*[Somewhere down the hall, a lobbyist was having an excellent lunch and not thinking about kitchens.]*
-
-*[The Senator did not answer.]*
-
-*[This was, in its way, an answer.]*
-
----
-
-*[Zucchini El Gourdo looked at Princess Monster Truck. She looked back. Different cities, different histories, different routes to this room. Neither had voted in the last midterm.]*
-
-**MR. ZUCCHINI EL GOURDO:** *(quietly)* I went into nonprofits to feel like I wasn't in the casino. But I think there's a version of that which is genuine and a version that's just — a better story about myself. I'm still figuring out which one it is.
-
-**PRINCESS MONSTER TRUCK:** At least you know there are two versions.
-
-*[A beat.]*
-
-**MR. ZUCCHINI EL GOURDO:** Is the Estonia thing real?
-
-**PRINCESS MONSTER TRUCK:** It's Wikipedia.
-
-**MR. ZUCCHINI EL GOURDO:** So possibly.
-
-**PRINCESS MONSTER TRUCK:** Possibly is enough.
+*[The lights hummed. Somewhere down the hall, a lobbyist was having an excellent lunch and not thinking about the people who prepared it.]*
 
 ---
 
@@ -267,7 +215,7 @@ Instead it's going to go to a working group. Then a subcommittee. Then a recess.
 
 ---
 
-*The food truck opened in the spring. It was called THE ELEVEN HOUR. The boudin was excellent.*
+*The food truck opened in the spring. It was called THE SEVENTEENTH HOUR. The boudin was excellent.*
 
 *It was not the only one.*
 
@@ -308,3 +256,21 @@ Instead it's going to go to a working group. Then a subcommittee. Then a recess.
 *[The boudin: excellent]*
 
 *[The list the Senator had: somewhere, in a drawer, in a handwriting he no longer entirely recognized as his own]*
+
+---
+
+[^room]: Room 2123 smelled of recycled air and the specific ghost of ambition that forms when enough people have sat in the same chairs believing, each in turn, that today was the day something would change. The fluorescent lights hummed at a frequency that could not technically be called despair but whatever feeling it was was renting a studio apartment in the neighborhood and had started leaving its shoes in the hallway.
+
+[^fury]: The fury was real. It had simply also become, over time, a brand, a platform, a voting bloc, a fundraising apparatus. The fury had acquired stakeholders. It would be unfair to say this had changed nothing. It would be equally unfair to say it hadn't.
+
+[^survivor]: A "survivor" in the biological sense has endured something that tried to kill them. In the political sense, something that tried to *replace* them. The skills required are different. The thing you have to be willing to lose, in order to keep going, is different. He had never examined this distinction directly. He had, however, lived it for twenty-three years.
+
+[^criticism]: Whether this constitutes a criticism is left as an exercise for the reader.
+
+[^ag]: The aide typed something. Nothing happened. Such is the nature of the Department of Agriculture.
+
+[^synthesis]: This section is titled "The Synthesis" because the transcript format requires section headers, and "The Part Where Everyone Understands The Problem And Then The Problem Continues" was considered too accurate.
+
+[^hose]: The speech that followed was one he had given, in various forms, for twelve years. It was true. It had always been true. It arrived, as it always did, exactly as intended — the cadences landing where cadences land when a man has found the version of himself that works and has been working it ever since. He felt, distantly, the faint hum of the machinery. His own machinery. He kept going, because stopping would require explaining why he stopped, and the explanation did not exist in any language the room spoke.
+
+[^posterity]: Posterity has not yet confirmed whether it wanted this.
